@@ -1,0 +1,3545 @@
+{
+  "products": [
+    {
+      "id": 1792687727392,
+      "title": "Acelga Verde Orgánica",
+      "titleEn": "(Green Chard)",
+      "category": "hojas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://images.unsplash.com/photo-1576045057995-568f588f82fb?auto=format&fit=crop&w=600&q=80"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688141940,
+      "title": "Espinaca Criolla Orgánica",
+      "titleEn": "Espinaca Criolla Orgánica",
+      "category": "hojas",
+      "price": 650,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/3mDBp5xz/Espinaca.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688171374,
+      "title": "Espinaca Mexicana Rollo",
+      "titleEn": "(Chayan Mansa) Mexican Spinach",
+      "category": "hojas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/bgjW14GL/Espinaca-Mexicana.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688684232,
+      "title": "Arúgula Orgánica Rollo",
+      "titleEn": "",
+      "category": "hojas",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/RG9X77px/Arugula.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688708598,
+      "title": "Kale Toscano Orgánico",
+      "titleEn": "(Dinosaur Kale)",
+      "category": "hojas",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/xSgNRV5j/Kale-Toscano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688729330,
+      "title": "Kale Rizado Orgánico",
+      "titleEn": "(Curly Kale)",
+      "category": "hojas",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Jjmhs5W1/Kale-Rizado.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688766406,
+      "title": "Lechuga Americana Orgánica",
+      "titleEn": "(Iceberg Lettuce",
+      "category": "hojas",
+      "price": 550,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/r29tRs1k/Lechuga-Americana.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688794510,
+      "title": "Lechuga Boston Orgánica",
+      "titleEn": "(Butter Lettuce)",
+      "category": "hojas",
+      "price": 550,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/nM2JS2qx/Lechuhga-Boston.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792688819496,
+      "title": "Lechuga Roble Roja Orgánica",
+      "titleEn": "(Red Oak Lettuce)",
+      "category": "hojas",
+      "price": 550,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/RkXbnrk0/Lechuga-Roble.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792689794810,
+      "title": "Lechuga Lolorosa Orgánica",
+      "titleEn": "",
+      "category": "hojas",
+      "price": 550,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/bjXT5FpK/Lechuga-Lolorosa.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792689818478,
+      "title": "Lechuga Romana Orgánica",
+      "titleEn": "(Romaine Lettuce)",
+      "category": "hojas",
+      "price": 550,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/YFHTp2BL/Lechuga-Romana.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792689854913,
+      "title": "Mostaza China Orgánica",
+      "titleEn": "(Chinese Mustard)",
+      "category": "hojas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/21zjCgtp/Mostaza-China.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792689869304,
+      "title": "Pok Choi Orgánico",
+      "titleEn": "",
+      "category": "hojas",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/LDQhxxGD/Pok-Choi.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792690928614,
+      "title": "Ayote Sazón Orgánico",
+      "titleEn": "(Pumpkin)",
+      "category": "vegetales",
+      "price": 1000,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg). Un ayote entero pesa entre 2 y 3kg.",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg). One whole pumpkin weighs around 2-3kg.",
+      "images": [
+        "https://i.ibb.co/YFYS26km/Ayote.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792690984320,
+      "title": "Brocoli Orgánico",
+      "titleEn": "",
+      "category": "vegetales",
+      "price": 2750,
+      "description": "Vendido por peso. Ingrese 1 por una pieza",
+      "descriptionEn": "Sold by weight. Enter 1 for one piece",
+      "images": [
+        "https://i.ibb.co/rGVc58yL/Brocoli.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691043099,
+      "title": "Coliflor Orgánica",
+      "titleEn": "(Cauliflower)",
+      "category": "vegetales",
+      "price": 1750,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/8DF3m6tG/Coliflor.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691087430,
+      "title": "Berenjena Convencional",
+      "titleEn": "(Eggplant)",
+      "category": "hojas",
+      "price": 900,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=300&q=80"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691128846,
+      "title": "Cebolla Blanca Orgánica",
+      "titleEn": "(White Onion)",
+      "category": "vegetales",
+      "price": 2000,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/j9BkZjKZ/Cebolla-Blanca.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691177178,
+      "title": "Cebolla Morada Orgánica",
+      "titleEn": "(Organic Red Onion)",
+      "category": "vegetales",
+      "price": 3200,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/WWj73qM0/Cebolla-Morada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691200074,
+      "title": "Ajo Criollo Orgánico rollo 100g",
+      "titleEn": "(Native Garlic bundle)",
+      "category": "vegetales",
+      "price": 1800,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/JRz3bDQG/Ajo-Criollo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691216335,
+      "title": "Chayote Orgánico",
+      "titleEn": "",
+      "category": "vegetales",
+      "price": 450,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/WvvSsMRL/Chayote.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691270542,
+      "title": "Nabo Orgánico",
+      "titleEn": "(Turnip)",
+      "category": "vegetales",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/W46trb7G/Nabo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792691305304,
+      "title": "Rabanitos Rollo Orgánico",
+      "titleEn": "(Radish Bundle)",
+      "category": "vegetales",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/QjmccpV3/Rabanitos-Rollo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692154382,
+      "title": "Remolacha Orgánica",
+      "titleEn": "(Beetroot)",
+      "category": "vegetales",
+      "price": 580,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/3ywBHWpY/Remolacha.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692270938,
+      "title": "Chile Dulce Orgánico",
+      "titleEn": "(Bell Pepper)",
+      "category": "vegetales",
+      "price": 650,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/tTNgs2xp/Chile-Dulce.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692315262,
+      "title": "Pepino Orgánico",
+      "titleEn": "(Cucumber)",
+      "category": "vegetales",
+      "price": 1450,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/WWjkNHjm/Pepino.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692747251,
+      "title": "Repollo Verde Orgánico",
+      "titleEn": "(Green Cabbage)",
+      "category": "vegetales",
+      "price": 1200,
+      "description": "Vendido por peso. Ingrese 1 por una pieza",
+      "descriptionEn": "Sold by weight. Enter 1 for one piece",
+      "images": [
+        "https://i.ibb.co/bg60KYNc/Repollo-Verde.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692785385,
+      "title": "Repollo Morado Orgánico",
+      "titleEn": "(Purple Cabbage)",
+      "category": "vegetales",
+      "price": 1650,
+      "description": "Vendido por peso. Ingrese 1 por una pieza",
+      "descriptionEn": "Sold by weight. Enter 1 for one piece",
+      "images": [
+        "https://i.ibb.co/6ccQv2Kq/Repollo-Morado.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692821392,
+      "title": "Tomate Orgánico",
+      "titleEn": "",
+      "category": "vegetales",
+      "price": 2200,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/3mFHN8GD/Tomate.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692863944,
+      "title": "Tomate Cherry Orgánico Bandeja",
+      "titleEn": "(Cherry Tomato)",
+      "category": "vegetales",
+      "price": 2000,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/nNDCdfqc/Tomate-Cherry.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692887160,
+      "title": "Vainica Orgánica 500g",
+      "titleEn": "(Green Beans)",
+      "category": "vegetales",
+      "price": 1100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Bhbz3Q4/Vainica.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692961963,
+      "title": "Zanahoria Orgánica",
+      "titleEn": "(Carrot)",
+      "category": "vegetales",
+      "price": 1200,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/j9Ws8K7W/Zanahoria.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792692996571,
+      "title": "Zanahoria Colores Orgánica",
+      "titleEn": "(Rainbow Carrot)",
+      "category": "vegetales",
+      "price": 1700,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/RTW1XxJZ/Zanahoria-Colores.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792693018425,
+      "title": "Zapallo Orgánico",
+      "titleEn": "(Zucchini)",
+      "category": "vegetales",
+      "price": 980,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/zWVMKb4k/Zapallo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792693060765,
+      "title": "Apio Orgánico",
+      "titleEn": "(Celery)",
+      "category": "vegetales",
+      "price": 2300,
+      "description": "Vendido por peso. Ingrese 1 por una pieza",
+      "descriptionEn": "Sold by weight. Enter 1 for one piece",
+      "images": [
+        "https://i.ibb.co/TDV4pz3W/Apio.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792693096345,
+      "title": "Hinojo Orgánico",
+      "titleEn": "(Fennel)",
+      "category": "vegetales",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/qLhKMDkh/Hinojo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792693119095,
+      "title": "Puerro Orgánico",
+      "titleEn": "(Leek)",
+      "category": "vegetales",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/TqBk1Txw/Puerro.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792695906339,
+      "title": "Hierba Maggie Orgánica",
+      "titleEn": "(Maggie Herb bundle) Levisticum Officinale",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/7d9GVT4M/hierba-maggie.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792695928169,
+      "title": "Albahaca Orgánica",
+      "titleEn": "(Basil bundle)",
+      "category": "hierbas",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/99C1pMYp/albahaca.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792695948196,
+      "title": "Albahaca Canela Orgánica",
+      "titleEn": "(Cinnamon Basil bundle)",
+      "category": "hierbas",
+      "price": 700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/LdFsm7js/cebollino.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792695972917,
+      "title": "Cebollino Criollo Orgánico",
+      "titleEn": "c(Green Onions)",
+      "category": "hierbas",
+      "price": 550,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Rk2vWBJB/cilantro.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792695995042,
+      "title": "Cilantro Orgánico",
+      "titleEn": "(Coriander)",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=300&q=80"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792696020733,
+      "title": "Culantro Coyote Orgánico",
+      "titleEn": "(Wild Coriander)",
+      "category": "hierbas",
+      "price": 500,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=300&q=80"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792696039855,
+      "title": "Hierba Buena Orgánica",
+      "titleEn": "(Spearmint)",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/NHW2stf/hierba-buena.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792696061247,
+      "title": "Menta Orgánica",
+      "titleEn": "(Peppermint)",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/DPt4xf01/menta.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792696083011,
+      "title": "Eneldo Orgánico",
+      "titleEn": "(Dill)",
+      "category": "hierbas",
+      "price": 750,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/9mPL7b57/eneldo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792696096892,
+      "title": "Oregano Orgánico",
+      "titleEn": "",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/QjTdPz9v/oregano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697388076,
+      "title": "Perejil Orgánico",
+      "titleEn": "(Parsley)",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/c9pLJPG/perejil.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697408497,
+      "title": "Romero Orgánico",
+      "titleEn": "(Rosemary)",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/FqDyVVbX/romero.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697430065,
+      "title": "Tomillo Orgánico",
+      "titleEn": "(Thyme)",
+      "category": "hierbas",
+      "price": 600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/yvVtd7h/tomillo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697453182,
+      "title": "Rollo de Eucalipto",
+      "titleEn": "(Eucaliptus bundle)",
+      "category": "hierbas",
+      "price": 1200,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Z6RHnqSV/eucalipto.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697477824,
+      "title": "Chile Ají Orgánico Bandeja 200g",
+      "titleEn": "(Hot Chili Pepper)",
+      "category": "hierbas",
+      "price": 1950,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/fdL08KM2/chile-aji.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697784909,
+      "title": "Hongo Blanco Champiñon Orgánico",
+      "titleEn": "(Wite Mushrooms)",
+      "category": "hongos",
+      "price": 2600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/svrjTb19/Hongo-Blanco.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792697813423,
+      "title": "Hongo Crimini Orgánico",
+      "titleEn": "(Crimini Mushrooms)",
+      "category": "hongos",
+      "price": 3100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/pvf0fQYg/Hongo-Crimini.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792699705216,
+      "title": "Camote Orgánico",
+      "titleEn": "(Sweet Potato)",
+      "category": "tuberculos",
+      "price": 1700,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/ksvw1zRM/Camote-Morado.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792699746722,
+      "title": "Camote Zanahoria Orgánica",
+      "titleEn": "(Orange Sweet Potato)",
+      "category": "tuberculos",
+      "price": 1750,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/QjCytnfq/Camote-Zanahoria.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792699783228,
+      "title": "Papa Rosada Orgánica",
+      "titleEn": "(Red Potato)",
+      "category": "tuberculos",
+      "price": 1800,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/F4G0xvx9/Papa-Rosada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792699824774,
+      "title": "Gengibre Orgánico",
+      "titleEn": "(Ginger)",
+      "category": "tuberculos",
+      "price": 2500,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/wZj2JdxB/Genjibre.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792699861360,
+      "title": "Cúrcuma Orgánica",
+      "titleEn": "(Turmeric)",
+      "category": "tuberculos",
+      "price": 3300,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/kVb3NNFJ/Curcuma.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792699886733,
+      "title": "Ñanpi Orgánico",
+      "titleEn": "",
+      "category": "tuberculos",
+      "price": 1500,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/SwLhy1wp/anpi.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700274636,
+      "title": "Aguacate Hass Orgánico",
+      "titleEn": "(Hass Avocado per kg)",
+      "category": "frutas",
+      "price": 3700,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/2YM35XhK/aguacate-hass.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700305952,
+      "title": "Platano Orgánico",
+      "titleEn": "(Plantain)",
+      "category": "frutas",
+      "price": 400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/S4mmsJXd/Platano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700331909,
+      "title": "Banano Orgánico",
+      "titleEn": "(Banana)",
+      "category": "frutas",
+      "price": 100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/2XmYJvT/banano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700355322,
+      "title": "Naranja",
+      "titleEn": "(Orange)",
+      "category": "frutas",
+      "price": 270,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/1YVbNL3r/naranja.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700377536,
+      "title": "Limon Mandarina Orgánica",
+      "titleEn": "(Lemon Mandarina)",
+      "category": "frutas",
+      "price": 300,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/1gWQ6B8/limon-mandarina.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700397035,
+      "title": "Limon Mesino Orgánico",
+      "titleEn": "(Lime)",
+      "category": "frutas",
+      "price": 450,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/jZhwZFtJ/limon-mesino.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700420288,
+      "title": "Mora Orgánica 500g",
+      "titleEn": "(Blackberries)",
+      "category": "frutas",
+      "price": 2100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/3Ysk04Fq/moras.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700443260,
+      "title": "Fresa Orgánica Bandeja 500g",
+      "titleEn": "(Organic Strawberries)",
+      "category": "frutas",
+      "price": 2700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/zT4ZrKGJ/fresas.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700470352,
+      "title": "Papaya Orgánica",
+      "titleEn": "",
+      "category": "frutas",
+      "price": 1250,
+      "description": "Vendido por peso. Ingrese 1 por una pieza",
+      "descriptionEn": "Sold by weight. Enter 1 for one piece",
+      "images": [
+        "https://i.ibb.co/q3N0sx6X/papaya.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700528226,
+      "title": "Mango",
+      "titleEn": "",
+      "category": "frutas",
+      "price": 1800,
+      "description": "Producto convencional \nVendido por peso",
+      "descriptionEn": "Convencional product. \nSold by weight.",
+      "images": [
+        "https://i.ibb.co/V0H1Ts4Q/mango.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700568264,
+      "title": "Piña Orgánica",
+      "titleEn": "(Pineapple)",
+      "category": "frutas",
+      "price": 950,
+      "description": "Vendido por peso. Ingrese 1 por una pieza",
+      "descriptionEn": "Sold by weight. Enter 1 for one piece.",
+      "images": [
+        "https://i.ibb.co/wrMSxX8H/pina.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700605564,
+      "title": "Manzana Ana Orgánica",
+      "titleEn": "(Local Anne Apple)",
+      "category": "frutas",
+      "price": 2750,
+      "description": "Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/Pz0f7XHP/manzana.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792700640405,
+      "title": "Maracuya",
+      "titleEn": "(Passion Fruit)",
+      "category": "frutas",
+      "price": 3250,
+      "description": "Producto convencional Vendido por peso. Puede escribir la cantidad que desee (por ejemplo, 0.5kg)",
+      "descriptionEn": "Sold by weight. You can type any weight you'd like (e.g. 0.5kg)",
+      "images": [
+        "https://i.ibb.co/gLgQXSh0/maracuya.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792701972933,
+      "title": "30 Huevos de Pastoreo",
+      "titleEn": "(30 Pasture- Raised Eggs)",
+      "category": "lacteos",
+      "price": 4700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Vc8p8ZYc/30-huevos-pastereo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792701995580,
+      "title": "15 Huevos de Pastoreo",
+      "titleEn": "(15 Pasture- Raised Eggs)",
+      "category": "lacteos",
+      "price": 2400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/hFK0tCtP/15-huevos-pastoero.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702052551,
+      "title": "12 Huevos de Codorniz",
+      "titleEn": "(Quail Eggs)",
+      "category": "lacteos",
+      "price": 1500,
+      "description": "Pequeños pero muy nutritivos. Por cada 100 g, aportan casi el doble de hierro, vitamina B12 y B2 que el huevo de gallina. Ideales para variar tus fuentes de proteína y nutrientes.",
+      "descriptionEn": "Small but nutrient-dense. Per 100 g, they provide almost twice as much iron, vitamin B12 and B2 as chicken eggs. A great way to add variety to your sources of protein and nutrients.",
+      "images": [
+        "https://i.ibb.co/JFqW4Vcs/12-huevos-de-codorniz.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702092507,
+      "title": "24 Huevos de Codorniz",
+      "titleEn": "(Quail Eggs)",
+      "category": "lacteos",
+      "price": 2800,
+      "description": "Pequeños pero muy nutritivos. Por cada 100 g, aportan casi el doble de hierro, vitamina B12 y B2 que el huevo de gallina. Ideales para variar tus fuentes de proteína y nutrientes.",
+      "descriptionEn": "Small but nutrient-dense. Per 100 g, they provide almost twice as much iron, vitamin B12 and B2 as chicken eggs. A great way to add variety to your sources of protein and nutrients.",
+      "images": [
+        "https://i.ibb.co/Cp8Bz46z/24-huevos-de-codorniz.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702138753,
+      "title": "Kéfir de Leche de Cabra 500ml",
+      "titleEn": "(Goat Milk Kefir 500ml)",
+      "category": "lacteos",
+      "price": 2600,
+      "description": "Kéfir suave y refrescante, con un sabor limpio y delicado en botella de vidrio. Relleno ₡2200 (devuelve el frasco)",
+      "descriptionEn": "Smooth and refreshing kefir in a glass bottle - with little to no go goat taste. Refill ₡2200 (return your bottle)",
+      "images": [
+        "https://i.ibb.co/7dhJ8nwf/kefir-500ml-leche-cabra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702160853,
+      "title": "Kéfir de Leche de Cabra 1L",
+      "titleEn": "(Goat Milk Kefir 1L)",
+      "category": "lacteos",
+      "price": 4500,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/7tNh9v9M/kefir-1-L-leche-cabra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702214665,
+      "title": "Natilla 300g",
+      "titleEn": "(Sour Cream)",
+      "category": "lacteos",
+      "price": 1800,
+      "description": "Elaborada de manera artesanal con leche fresca de vacas de pastoreo. Fermentación natural. Sin aditivos ni sal. Ingredientes: 100% leche de vaca",
+      "descriptionEn": "Artisanally made from fresh pasture-raised cow’s milk. Naturally fermented. No additives or salt. Ingredients: 100% cow's milk",
+      "images": [
+        "https://i.ibb.co/RprgzPRk/natilla-300g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702249331,
+      "title": "Leche de Cabra 1L",
+      "titleEn": "(Goat Milk 1L)",
+      "category": "lacteos",
+      "price": 3200,
+      "description": "Hecho con leche fresca de cabras de pastoreo. Envasado en botella de plástico. Leche cruda (sin pasteurizar) disponible bajo pedido.",
+      "descriptionEn": "Made with fresh milk from pasture-raised goats. Bottled in a plastic container. Raw milk (unpasteurized)",
+      "images": [
+        "https://i.ibb.co/g2SY21g/leche-cabra-1-L.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702276432,
+      "title": "Yogurt Natural de Cabra 500ml",
+      "titleEn": "(Goat Yogurt Plain 500ml)",
+      "category": "lacteos",
+      "price": 2900,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/xk0rZ20/Yogurt-500ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702425022,
+      "title": "Queso Madurado de Cabra",
+      "titleEn": "(Matured Goat Cheese)",
+      "category": "lacteos",
+      "price": 18000,
+      "description": "Vendido por kg Elaborado con leche de cabra de pastoreo. Sin aditivos ni conservantes. Madurado durante 2 meses para desarrollar una textura firme y un sabor suave y delicado.",
+      "descriptionEn": "Made with pasture-raised goat milk. Free from additives and preservatives. Aged for 2 months to develop a firm texture and a mild, delicate flavor",
+      "images": [
+        "https://i.ibb.co/kswKmM73/queso-madurado-de-cabra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702464025,
+      "title": "Queso de Cabra Natural",
+      "titleEn": "(Goat Cheese)",
+      "category": "lacteos",
+      "price": 13500,
+      "description": "Vendido por kg. Queso de cabra semiduro, de sabor suave y delicado. Hecho a mano con leche fresca de cabras pastoreo",
+      "descriptionEn": "Handcrafted semi-hard goat cheese with a smooth texture and a mild taste. Made from local fresh, pasture raised goat´s milk",
+      "images": [
+        "https://i.ibb.co/4Zhfgc4k/queso-natural-de-vabra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702503347,
+      "title": "Queso Palmito 400g",
+      "titleEn": "(Palmito Cheese)",
+      "category": "lacteos",
+      "price": 3800,
+      "description": "",
+      "descriptionEn": "Traditional Costa Rican string cheese, made from fresh pasture-raised cow´s milk.",
+      "images": [
+        "https://i.ibb.co/SXXmyP2B/queso-palmito-400g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702544399,
+      "title": "Queso Tierno Orgánico",
+      "titleEn": "(Tender Cheese)",
+      "category": "lacteos",
+      "price": 5000,
+      "description": "Vendido por kg. Queso artesanal elaborado con leche de vacas de pastoreo, alimentadas sin hormonas ni antibióticos.",
+      "descriptionEn": "Artisanal cheese made with milk from pasture-raised cows, free of hormones and antibiotics.",
+      "images": [
+        "https://i.ibb.co/3mCJ37r2/queso-tierno.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702575861,
+      "title": "Queso Semiduro Orgánico",
+      "titleEn": "(Semi-hard Cheese)",
+      "category": "lacteos",
+      "price": 4800,
+      "description": "Vendido por kg. Queso artesanal de textura firme y sabor suave y salado. Ideal para cocinar o freír. Hecho con leche de vacas de pastoreo, alimentadas sin hormonas ni antibióticos.",
+      "descriptionEn": "Artisanal semi-hard cheese with a firm texture and mild, salty flavor. Great for cooking or frying. Made from pasture-raised cow's milk free of hormones and antibiotics.",
+      "images": [
+        "https://i.ibb.co/TqBB22jp/queso-semiduro.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702604783,
+      "title": "Queso Mozzarella",
+      "titleEn": "",
+      "category": "lacteos",
+      "price": 8000,
+      "description": "Vendido por kg. Hecho con leche de vacas de pastoreo, alimentadas sin hormonas ni antibióticos.",
+      "descriptionEn": "Made from pasture-raised cow's milk free of hormones and antibiotics.",
+      "images": [
+        "https://i.ibb.co/FbXJvjDP/queso-mozzarella.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702653909,
+      "title": "Queso Parmigiano 200g",
+      "titleEn": "(Parmesan Cheese)",
+      "category": "lacteos",
+      "price": 7300,
+      "description": "Ingredientes:  leche, sal, cuajo",
+      "descriptionEn": "Ingredients: milk, salt, rennet",
+      "images": [
+        "https://i.ibb.co/sJQGK6d6/queso-parmiginado-200g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702697609,
+      "title": "Queso Camembert 125g",
+      "titleEn": "",
+      "category": "lacteos",
+      "price": 2600,
+      "description": "ngredientes: leche de vaca, sal, cultivo láctico, cuajo microbiano, cultivo de mojo",
+      "descriptionEn": "Ingredients: cow milk, salt, lactic cultures, microbial rennet, mold culture",
+      "images": [
+        "https://i.ibb.co/HfJhqW8k/queso-camember-t-125g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702737689,
+      "title": "Queso Brie 125g",
+      "titleEn": "",
+      "category": "lacteos",
+      "price": 2600,
+      "description": "Ingredientes: leche de vaca, sal, cultivo láctico, cuajo microbiano, cultivo de mojo",
+      "descriptionEn": "Ingredients: cow milk, salt, lactic cultures, microbial rennet, mold culture",
+      "images": [
+        "https://i.ibb.co/Q3YmNVSn/queso-brie-125g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702788093,
+      "title": "Mantequilla Artesanal barra 150g",
+      "titleEn": "(Artisanal Butter)",
+      "category": "lacteos",
+      "price": 1950,
+      "description": "Elaborada con crema fresca de leche de vacas de pastoreo, ofrece un sabor puro y autentico. Sin aditivos ni conservantes.",
+      "descriptionEn": "Made with fresh cream from pasture-raised cows without any additives or preservatives.",
+      "images": [
+        "https://i.ibb.co/QvfDtHDS/Mantequilla-barra-150g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702828357,
+      "title": "Mantequilla Artesanal sin sal 500g",
+      "titleEn": "(Artisanal Unsalted Butter)",
+      "category": "lacteos",
+      "price": 5500,
+      "description": "Elaborada con crema fresca de leche de vacas de pastoreo, ofrece un sabor puro y autentico. Sin aditivos ni conservantes. Peso 500g.",
+      "descriptionEn": "Made with fresh cream from pasture-raised cows without any additives or preservatives. Weighs 500g.",
+      "images": [
+        "https://i.ibb.co/chPbbzhN/matequilla-sinsal-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702859707,
+      "title": "Mantequilla Artesanal sin sal 1KG",
+      "titleEn": "(Artisanal Unsalted Butter)",
+      "category": "lacteos",
+      "price": 10000,
+      "description": "Elaborada con crema fresca de leche de vacas de pastoreo, ofrece un sabor puro y autentico. Sin aditivos ni conservantes. Peso 1kg.",
+      "descriptionEn": "Made with fresh cream from pasture-raised cows without any additives or preservatives. Weighs 1kg.",
+      "images": [
+        "https://i.ibb.co/JWbyy4dX/matequilla-sinsal-1-KG.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702919883,
+      "title": "Ghee Mantequilla (200g)",
+      "titleEn": "",
+      "category": "lacteos",
+      "price": 5300,
+      "description": "Ghee - una mantequilla clarificada pura y libre de lactosa, conocida por su sabor suave y tostado, su alto punto de humo y gran versatilidad. Ideal para cocinar, hornear y apoyar la salud digestiva.",
+      "descriptionEn": ". Ghee Butter - a pure, lactose-free clarified butter known for its rich, nutty flavor, high smoke point and excellent versatility. Ideal for cooking, baking and supporting digestive health.",
+      "images": [
+        "https://i.ibb.co/WW53QbgM/Ghee-200g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702947603,
+      "title": "Ghee Mantequilla (380g)",
+      "titleEn": "",
+      "category": "lacteos",
+      "price": 8300,
+      "description": "Ghee - una mantequilla clarificada pura y libre de lactosa, conocida por su sabor suave y tostado, su alto punto de humo y gran versatilidad. Ideal para cocinar, hornear y apoyar la salud digestiva",
+      "descriptionEn": "Ghee Butter - a pure, lactose-free clarified butter known for its rich, nutty flavor, high smoke point and excellent versatility. Ideal for cooking, baking and supporting digestive health.",
+      "images": [
+        "https://i.ibb.co/QF6kp1Sk/Ghee-380g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792702978613,
+      "title": "Ghee Mantequilla (650g)",
+      "titleEn": "",
+      "category": "lacteos",
+      "price": 13500,
+      "description": "Ghee - una mantequilla clarificada pura y libre de lactosa, conocida por su sabor suave y tostado, su alto punto de humo y gran versatilidad. Ideal para cocinar, hornear y apoyar la salud digestiva",
+      "descriptionEn": ". Ghee Butter - a pure, lactose-free clarified butter known for its rich, nutty flavor, high smoke point and excellent versatility. Ideal for cooking, baking and supporting digestive health.",
+      "images": [
+        "https://i.ibb.co/rR6xZ0R9/Ghee-650g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706027653,
+      "title": "Carne Molida 30% grasa 1kg",
+      "titleEn": "(Ground Beef 30% fat)",
+      "category": "carnes",
+      "price": 7200,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/21tdVpPz/carne-molida-30-grasa.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706061734,
+      "title": "Carne Molida Especial 10% grasa 1kg",
+      "titleEn": "(Ground Beef 10% fat)",
+      "category": "carnes",
+      "price": 9000,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen",
+      "images": [
+        "https://i.ibb.co/s9mdXsZ1/carne-molida-especial.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706102665,
+      "title": "Costilla",
+      "titleEn": "(Ribs)",
+      "category": "carnes",
+      "price": 7200,
+      "description": "Vendido por kg. Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/KY47srv/costilla.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706136167,
+      "title": "Punta Solomo",
+      "titleEn": "(Sirloin Tip Steak)",
+      "category": "carnes",
+      "price": 18500,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/yFJQ89b8/punta-solomo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706167815,
+      "title": "Bistec",
+      "titleEn": "(Beef Steak)",
+      "category": "carnes",
+      "price": 9000,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/7xfcJ98N/bistec.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706199165,
+      "title": "Ribeye",
+      "titleEn": "",
+      "category": "carnes",
+      "price": 19200,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/v49q62s9/ribeye.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706229329,
+      "title": "Quititeña",
+      "titleEn": "(Beef shoulder)",
+      "category": "carnes",
+      "price": 14500,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/60LfsdZp/quititena.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706262807,
+      "title": "Churrasco",
+      "titleEn": "(Grill beef)",
+      "category": "carnes",
+      "price": 14400,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/rndYfBg/churrasco.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706297021,
+      "title": "Pecho",
+      "titleEn": "(Beef brisket)",
+      "category": "carnes",
+      "price": 9600,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/wNXcyfm3/pecho.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706333792,
+      "title": "Lomo Paleta",
+      "titleEn": "(Chuck Steak)",
+      "category": "carnes",
+      "price": 14000,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/fYzgRxtf/lomo-paleta.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706369384,
+      "title": "Mano de Piedra",
+      "titleEn": "(Chuck Shoulder)",
+      "category": "carnes",
+      "price": 9600,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/hxZ10PLR/mano-de-piedra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706412244,
+      "title": "Giba",
+      "titleEn": "(Bull Hump)",
+      "category": "carnes",
+      "price": 11500,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen",
+      "images": [
+        "https://i.ibb.co/0bBCrSV/giba.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706448873,
+      "title": "Lomito de entraña",
+      "titleEn": "(Hanger steak)",
+      "category": "carnes",
+      "price": 12500,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago.",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/RT1TXQm6/lomito-de-entrana.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706481977,
+      "title": "Hueso consomé",
+      "titleEn": "(Bones for stew)",
+      "category": "carnes",
+      "price": 5000,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/ns1w9Cqd/hueso-de-consome.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706517462,
+      "title": "Osobuco de res",
+      "titleEn": "(Ossobucco)",
+      "category": "carnes",
+      "price": 8000,
+      "description": "Carne de res libre de hormonas y antibióticos. Empacado al vacio y congelago",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. Pasture raised natural diet enriched with beneficial microorganisms. Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/VWR4CxJ0/osobuco-de-res.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706565837,
+      "title": "Jarrete",
+      "titleEn": "(Beef shank)",
+      "category": "carnes",
+      "price": 4500,
+      "description": "Carne de res libre de hormonas y antibióticos. \nEmpacado al vacio y congelago",
+      "descriptionEn": "Beef from cattle raised without antibiotics or hormones. \nPasture raised natural diet enriched with beneficial microorganisms.\n Sold freshly frozen.",
+      "images": [
+        "https://i.ibb.co/LhgMSLd5/jarrete.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706614213,
+      "title": "Tortillas de Maiz medianas 10 unidades por paquete",
+      "titleEn": "(Medium corn tortillas 10 units per bag)",
+      "category": "panaderia",
+      "price": 1100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Zz1PLvq0/tortilla-maiz-medianas.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706634872,
+      "title": "Tortillas de Maiz pequeñas 10 unidades por paquete",
+      "titleEn": "(Small corn tortillas)",
+      "category": "panaderia",
+      "price": 950,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/tTmyJpcC/tortilas-maiz-pequenas.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706656042,
+      "title": "Pan Masa Madre Clasico 800g",
+      "titleEn": "(Sourdough bread classic)",
+      "category": "panaderia",
+      "price": 6400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/d4pbQHSB/pan-masa-madre-800g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706697988,
+      "title": "Pan Masa Madre Clasico 400g",
+      "titleEn": "(Sourdough bread classic)",
+      "category": "panaderia",
+      "price": 3300,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/tpwJ6NY3/pan-masa-madre-400g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706717868,
+      "title": "Pan Masa Madre Multigrano 800g",
+      "titleEn": "(Sourdough bread Multigrain)",
+      "category": "panaderia",
+      "price": 6700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/0pktGHSG/pan-masa-madre-800g-multigrano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706737396,
+      "title": "Pan Masa Madre Multigrano 400g",
+      "titleEn": "(Sourdough bread Multigrain)",
+      "category": "panaderia",
+      "price": 3800,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/TBmtvpyW/pan-masa-madre-400g-multigrano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706757548,
+      "title": "Pan Masa Madre Ajo Romero 800g",
+      "titleEn": "(Sourdough bread Garlic Rosemary)",
+      "category": "panaderia",
+      "price": 6400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/dwjz7M9s/pan-masa-madre-ajo-romero-800g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706776300,
+      "title": "Pan Masa Madre Ajo Romero 400g",
+      "titleEn": "(Sourdough bread Garlic Rosemary)",
+      "category": "panaderia",
+      "price": 3600,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/xKyrxxDZ/pan-masa-madre-ajo-romero-400g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706798332,
+      "title": "Pan Pita 50/50 Harina blanca Convencional y Kamut",
+      "titleEn": "(Pita bread 50/50 conventional white flour and Kamut whole flour)",
+      "category": "panaderia",
+      "price": 3300,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/ch15g0kj/pan-pita-50-50-harina-blanca.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706815284,
+      "title": "Pan Masa Madre Baguette",
+      "titleEn": "(Sourdough bread baguette)",
+      "category": "panaderia",
+      "price": 2300,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/MyQjN0hp/pan-masa-madre-baquette.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706842892,
+      "title": "Pan Masa Madre Ciabatta Grande",
+      "titleEn": "(Sourdough bread Ciabatta)",
+      "category": "panaderia",
+      "price": 3350,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/DH4JJmnL/pan-masa-madre-ciabatta-grande.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706890962,
+      "title": "Fideos de Arroz - Pad Thai 454g",
+      "titleEn": "(Rice Noodles)",
+      "category": "asiaticos",
+      "price": 2500,
+      "description": "",
+      "descriptionEn": "Ingredientes: 90% rice flour, water País de Origen: Thailand Ingredients: 90% rice flour, water",
+      "images": [
+        "https://i.ibb.co/BKTtvCX9/fideos-de-arroz.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792706964672,
+      "title": "Pasta de Miso Blanco 500g",
+      "titleEn": "(White Miso Shiro Paste)",
+      "category": "asiaticos",
+      "price": 4000,
+      "description": "Miso hecho a mano y fermentado de forma natural. Ingredientes: Agua, Soya Amarilla, Sal, Alcohol, Maiz País de origen Japón",
+      "descriptionEn": "Handmade miso paste that is made with natural fermentation. Ingredients: Water, Yellow Soybean, Salt, Alcohol, Corn",
+      "images": [
+        "https://i.ibb.co/pvz4Jxt1/pasta-de-miso-blanco-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707002396,
+      "title": "Pasta de Miso Rojo 500g",
+      "titleEn": "(Red Miso Paste)",
+      "category": "asiaticos",
+      "price": 4000,
+      "description": "Miso hecho a mano y fermentado de forma natural. Ingredientes: Agua, Soya Amarilla, Sal, Alcohol, Maiz País de origen Japón",
+      "descriptionEn": "Handmade miso paste that is made with natural fermentation. Ingredients: Water, Yellow Soybean, Salt, Alcohol, Corn",
+      "images": [
+        "https://i.ibb.co/9kFf30P8/pasta-de-miso-rojo-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707046774,
+      "title": "Leche de Coco Orgánica 400ml",
+      "titleEn": "(Organic Coconut Milk)",
+      "category": "asiaticos",
+      "price": 2500,
+      "description": "Ingredientes: 60% extracto de coco y agua Producto Tailandia",
+      "descriptionEn": "Ingredients: coconut extract 60% and water Origin: Thailand",
+      "images": [
+        "https://i.ibb.co/pB9c3kpR/leche-de.jpg https://i.ibb.co/4wgHHBS9/coco.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707088849,
+      "title": "Salsa de Soya",
+      "titleEn": "Gluten Free (500ml)",
+      "category": "asiaticos",
+      "price": 4900,
+      "description": "Ingredientes: Aqua, soya no OGM, sal, azúcar, almidón de maíz",
+      "descriptionEn": "Ingredients: Water, non GMO soybeans, salt, sugar, corn starc",
+      "images": [
+        "https://i.ibb.co/zWj2xyRv/salsa-de.jpg                                                                                      https://i.ibb.co/GvKT8Kc0/soya-gluten.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707157360,
+      "title": "300g Chucrut Organico con Eneldo & Sal Rosada",
+      "titleEn": "(Organic Sauerkraut with Dill & Pink Salt)",
+      "category": "fermentados",
+      "price": 4500,
+      "description": "Chucrut artesanal de repollo morado, fermentado naturalmente con repollo orgánico, eneldo fresco y sal rosada. Rico en probióticos y sin pasteurizar, apoya la salud digestiva y ofrece una textura fresca y crujiente con un sabor vibrante. Ingredientes: repollo morado orgánico, eneldo orgánico, sal rosada",
+      "descriptionEn": "Artisan, naturally fermented red cabbage sauerkraut made with organic red cabbage, fresh dill, and pink salt. Probiotic-rich and unpasteurized, it supports gut health and digestion while offering a fresh, crisp texture and bright flavor. Ingredients: organic purple cabbage, organic dill, pink salt",
+      "images": [
+        "https://i.ibb.co/XrG1TtDg/chucrut-morado.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707193074,
+      "title": "300g Chucrut Organico con Perejil & Apio Maggie",
+      "titleEn": "(Sauerkraut with Parsley and Lovage)",
+      "category": "fermentados",
+      "price": 3800,
+      "description": "Chucrut artesanal de repollo blanco, fermentado naturalmente con repollo orgánico, perejil y apio maggie fresco y sal rosada. Rico en probióticos y sin pasteurizar, apoya la salud digestiva y ofrece una textura fresca y crujiente con un sabor vibrante. Ingredientes: repollo blanco orgánico, perejil orgánico, apio maggie orgánico, sal rosada",
+      "descriptionEn": "Artisan, naturally fermented red cabbage sauerkraut made with organic red cabbage, fresh dill, and pink salt. Probiotic-rich and unpasteurized, it supports gut health and digestion while offering a fresh, crisp texture and bright flavor. Ingredients: organic white cabbage, organic parsley, organic lovage, pink salt",
+      "images": [
+        "https://i.ibb.co/bjq92nPX/chucrut-apio-maggie.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707233342,
+      "title": "Arte Sano Fermentos",
+      "titleEn": "Gardenkraut 300g",
+      "category": "fermentados",
+      "price": 5000,
+      "description": "Rico en probióticos naturales, es un acompañamiento delicioso y nutritivo que aporta un sabor fresco, ligeramente ácido y vibrante a cualquier comida. Ingredientes: Repollo morado orgánico, repollo blanco orgánico, ajo orgánico, culantro orgánico, zanahoria orgánica, jengibre orgánico, sal y pimienta negra.",
+      "descriptionEn": "Rich in natural probiotics, it is a delicious and nutritious side that adds a fresh, tangy, and vibrant flavor to any meal. Ingredients: Organic purple cabbage, organic white cabbage, organic garlic, organic culantro, organic carrot, organic ginger, salt and black pepper.",
+      "images": [
+        "https://i.ibb.co/38gtwn2/sano-fermentos.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707256164,
+      "title": "Bragg Liquid Aminos 473ml (16oz)",
+      "titleEn": "",
+      "category": "fermentados",
+      "price": 3800,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Zj1sbRD/aminos-473mi-liquid.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707296884,
+      "title": "Bragg Coconut Liquid Aminos 296ml",
+      "titleEn": "",
+      "category": "fermentados",
+      "price": 6850,
+      "description": "Bragg Coconut Liquid Aminos — Una alternativa de origen vegetal a la salsa de soya, con un sabor naturalmente sabroso y ligeramente dulce. Ideal para cocinar, marinar, aderezar o agregar a tus platos favoritos. Ingredientes: Néctar de coco orgánico y sal marina.",
+      "descriptionEn": "Bragg Coconut Liquid Aminos — A plant-based alternative to soy sauce, with a naturally savory and slightly sweet flavor. Perfect for cooking, marinades, dressings, or adding to your favorite dishes. Ingredients: Organic coconut nectar and sea salt.",
+      "images": [
+        "https://i.ibb.co/wZjY2WqX/coconut-296mil-liquid.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707334358,
+      "title": "Vinagre Manzana Orgánico 473ml",
+      "titleEn": "(Organic Apple Cider Vinegar 16oz)",
+      "category": "fermentados",
+      "price": 4500,
+      "description": "Elaborado a partir de manzanas fermentadas de forma natural. Sin pasteurizar y con la madre, lo que conserva sus enzimas vivas, bacterias beneficiosas y propiedades naturales",
+      "descriptionEn": "Made from naturally fermented apples. Unpasteurized and with the mother, preserving live enzymes, beneficial bacteria, and its natural properties.",
+      "images": [
+        "https://i.ibb.co/rRw85y6v/vinagre-de-manzana-473ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707376586,
+      "title": "Vinagre Manzana Citrus Jengibre Orgánico 473ml",
+      "titleEn": "(Organic Apple Cider Vinegar Citrus Ginger 16oz)",
+      "category": "fermentados",
+      "price": 6500,
+      "description": "Bragg Vinagre de Manzana Cítricos y Jengibre — Vinagre de manzana orgánico, crudo y naturalmente fermentado, combinado con limón, lima, jengibre y miel para un sabor cítrico y refrescante. Ideal para diluir en agua, preparar bebidas o agregar a aderezos y recetas. Ingredientes: Vinagre de manzana orgánico, miel orgánica, jugo de limón orgánico, jugo de lima orgánico, agua, puré de jengibre orgánico, sabor natural de toronja, sabor natural de naranja y extracto de jengibre orgánico.",
+      "descriptionEn": "Bragg Apple Cider Vinegar Citrus Ginger — Organic, raw and naturally fermented apple cider vinegar blended with lemon, lime, ginger, and honey for a refreshing citrusy flavor. Perfect diluted in water, in drinks, dressings, or recipes. Ingredients: Organic apple cider vinegar, organic honey, organic lemon juice, organic lime juice, water, organic ginger puree, natural grapefruit flavor, natural orange flavor, organic ginger extract.",
+      "images": [
+        "https://i.ibb.co/VpBKqX3K/vinagre-manzana-citrus-473ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707410930,
+      "title": "Vinagre Manzana con Miel Orgánico 473ml",
+      "titleEn": "(Organic Apple Cider Vinegar with Honey 16oz)",
+      "category": "fermentados",
+      "price": 6500,
+      "description": "Bragg Vinagre de Manzana con Miel — Vinagre de manzana orgánico, crudo y naturalmente fermentado, endulzado con miel orgánica. Contiene la “Madre” del vinagre. Ideal para diluir en agua, aderezos y recetas. Ingredientes: Vinagre de manzana orgánico, miel orgánica y agua",
+      "descriptionEn": "Bragg Apple Cider Vinegar with Honey — Organic, raw and naturally fermented apple cider vinegar sweetened with organic honey. Contains the vinegar “Mother.” Perfect diluted in water, dressings, and recipes. Ingredients: Organic apple cider vinegar, organic honey, water.",
+      "images": [
+        "https://i.ibb.co/hxqQYRwB/vinagre-manzana-con-miel-473ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707451566,
+      "title": "Crema Balsámica Orgánica",
+      "titleEn": "(Balsamic Vinegar Glaze)150ml",
+      "category": "fermentados",
+      "price": 5250,
+      "description": "Ingredientes: *Mosto de uva concentrado, *Vinagre Balsámico de Módena I.G.P. 39% (*vinagre de vino, *mosto de uva concentrado), *vinagre de vino, *almidón de maíz. *Orgánico.",
+      "descriptionEn": "Ingredients: *Concentrated grape must, *Balsamic Vinegar of Modena I.G.P. 39% (*wine vinegar, *concentrated grape must), *wine vinegar, *corn starch. *Organic.",
+      "images": [
+        "https://i.ibb.co/My8Xcwvr/crema-balsamica-150ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707480924,
+      "title": "Vinagre de Banano 365ml",
+      "titleEn": "",
+      "category": "fermentados",
+      "price": 2300,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/XZvLF7Xd/vinagre-de-banano-65ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707495428,
+      "title": "Vinagre de Banano 700mlv",
+      "titleEn": "",
+      "category": "fermentados",
+      "price": 3200,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Y7jKYVKf/vinagre-de-banano-700ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792707535692,
+      "title": "Vinagre de banano tipo Balsámico",
+      "titleEn": "(Balsamic Vinegar)",
+      "category": "fermentados",
+      "price": 3900,
+      "description": "Ingredientes: banano orgánico, azúcar orgánica",
+      "descriptionEn": "Ingredients: organic banana, organic sugar",
+      "images": [
+        "https://i.ibb.co/Fk3Vv5wy/vinagre-de-banano-tipo-balsamico.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712276727,
+      "title": "Jugo de Manzana 350ml",
+      "titleEn": "(Apple Juice)",
+      "category": "bebidas",
+      "price": 2800,
+      "description": "Ingredientes: jugo de manzana Anna",
+      "descriptionEn": "Ingredients: apple juice",
+      "images": [
+        "https://i.ibb.co/JFxcqzRq/jugo-de-manzana.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712315469,
+      "title": "Té Guayusa Maracuyá 355ml",
+      "titleEn": "(Guayusa Passion Fruit Tea)",
+      "category": "bebidas",
+      "price": 2800,
+      "description": "Ingredientes: Agua, guayusa, maracuyá, miel de abeja (como endulcante)",
+      "descriptionEn": "Ingredients: Water, guayusa, passion fruit, honey (as a sweetner)",
+      "images": [
+        "https://i.ibb.co/wFcGtfkt/te-maracuya.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712353340,
+      "title": "Limonada Menta Clitoria 355ml",
+      "titleEn": "(Butterfly Pea Mint Lemonade)",
+      "category": "bebidas",
+      "price": 2800,
+      "description": "Ingredientes: Agua, limón, menta, clitoria, miel de abeja (como endulcante), sal marina",
+      "descriptionEn": "Ingredients: Water, lemon, mint, butterfly pea flower, honey (as a sweetner), sea salt",
+      "images": [
+        "https://i.ibb.co/hR87nrYL/limonada-menta.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712381491,
+      "title": "Kombucha Yerba Maté 355ml",
+      "titleEn": "",
+      "category": "bebidas",
+      "price": 2400,
+      "description": "Ingredientes: agua purificada, fruta de café, hojas de frambuesa, té verde, yerba mate, azúcar cruda orgánica y cultivo de kombucha.",
+      "descriptionEn": "Ingredients: purified water, coffee fruit, raspberry leaves, green tea, yerba mate, organic raw sugar and kombucha culture.",
+      "images": [
+        "https://i.ibb.co/q3CPvnRF/yerba-mate.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712417942,
+      "title": "Kombucha Manzana Jengibre 355m",
+      "titleEn": "(Apple Ginger)",
+      "category": "bebidas",
+      "price": 2400,
+      "description": "Ingredientes: agua purificada, fruta de café, hojas de frambuesa, té verde, manzana, jengibre, azúcar cruda orgánica y cultivo de kombucha",
+      "descriptionEn": "Ingredients: purified water, coffee fruit, raspberry leaves, green tea, apple, ginger, organic raw sugar and kombucha culture.",
+      "images": [
+        "https://i.ibb.co/k6htXXrL/manzana-jenjibre.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712453015,
+      "title": "Kombucha Rosa de Jamaica Anís 355ml",
+      "titleEn": "(Hibiscus & Star Anise)",
+      "category": "bebidas",
+      "price": 2400,
+      "description": "Ingredientes: agua purificada, fruta de café, hojas de frambuesa, té verde, rosa de Jamaica, anís de estrella, azúcar cruda orgánica y cultivo de kombucha.",
+      "descriptionEn": "Ingredients: purified water, coffee fruit, raspberry leaves, green tea, hibiscus, star anise, organic raw sugar and kombucha culture.",
+      "images": [
+        "https://i.ibb.co/5WMVcdJf/rosa-de-jamaica.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712512681,
+      "title": "Sirope de acaí orgánico 500ml",
+      "titleEn": "(Organic acaí syrup)",
+      "category": "endulzantes",
+      "price": 5800,
+      "description": "Sirope de açaí elaborado con pulpa de açaí y azúcar. Ideal para smoothies, bowls, yogur, postres y bebidas. Ingredientes: Acaí, azúcar orgánico, jugo de cítrico orgánico",
+      "descriptionEn": "Organic Açaí syrup made with açaí pulp and sugar. Perfect for smoothies, bowls, yogurt, desserts, and drinks. Ingredients: Acaí, organic sugar, organic citric acid",
+      "images": [
+        "https://i.ibb.co/fG81xFy9/sirope-de-acai.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712551410,
+      "title": "160g Miel de Abeja Cruda",
+      "titleEn": "(Wild Multifloral Raw Honey)",
+      "category": "endulzantes",
+      "price": 3900,
+      "description": "Originaria del Bosque Tropico Seco 100% miel de abeja cruda",
+      "descriptionEn": "100% unheated honey",
+      "images": [
+        "https://i.ibb.co/LdmMXXn4/160g-miel-de-abeja-cruda.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712628416,
+      "title": "560g Miel de Abeja Cruda",
+      "titleEn": "(Raw Honey)",
+      "category": "endulzantes",
+      "price": 5200,
+      "description": "Multifloral, 100%, sin procesos térmicos Multifloral",
+      "descriptionEn": "100% unheated honey",
+      "images": [
+        "https://i.ibb.co/pv0zmqYb/miel-de-abeja-cruda.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712674306,
+      "title": "270g Miel Cremada",
+      "titleEn": "(Creamed Raw Honey)",
+      "category": "endulzantes",
+      "price": 3600,
+      "description": "Miel que ha sido batida y cristalizada de manera controlada para crear una textura suave, cremosa y fácil de untar. Conserva el sabor y las propiedades naturales de la miel. Ingredientes: 100% miel de abeja cruda Mantener en refrigeración",
+      "descriptionEn": "Raw honey that has been gently whipped and crystallized in a controlled way to create a smooth, creamy, spreadable texture. It keeps the natural flavor and goodness of pure honey. Ingredientes: 100% unheated honey Keep refrigerated",
+      "images": [
+        "https://i.ibb.co/219B7R0q/miel-cremada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712704452,
+      "title": "270g Miel Picante",
+      "titleEn": "(Spicy Honey)",
+      "category": "endulzantes",
+      "price": 3750,
+      "description": "Ingredientes: miel de abeja cruda, pimienta negra, chile morita, chile guajillo, chile árbol, chile chipotle y chile ancho",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/7d8YcHr4/miel-picante.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712736964,
+      "title": "270g Miel Picante Ahumada",
+      "titleEn": "(Spicy Smoked Honey)",
+      "category": "endulzantes",
+      "price": 3750,
+      "description": "ngredientes: miel de abeja cruda, pimienta negra, chile morita, chile chipotle",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/jkRzCh1H/miel-picante-ahumada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712792551,
+      "title": "Cafe Molido Orgánico 454g",
+      "titleEn": "(Organic Ground Coffee)",
+      "category": "despensa",
+      "price": 5000,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/MyC2GKTH/cafe-molido-454g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712815071,
+      "title": "Cafe en Grano Orgánico 454g",
+      "titleEn": "(Organic Whole Bean Coffee)",
+      "category": "despensa",
+      "price": 5000,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/wZFKCk8q/cafe-en-grano.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712850054,
+      "title": "Café Molido Orgánico 250g",
+      "titleEn": "(Organic ground coffee)",
+      "category": "despensa",
+      "price": 3900,
+      "description": "Café orgánico de especialidad, cultivado a la sombra en un sistema agroforestal en Palmares, Costa Rica. Producido por Agropecuaria LUM a 1.200 msnm y procesado mediante el método Honey Amarillo. Perfil: notas dulces de panela, florales y acidez suave.",
+      "descriptionEn": "Organic specialty coffee, shade-grown in an agroforestry system in Palmares, Costa Rica. Produced by Agropecuaria LUM at 1,200 m.a.s.l. and processed using the Yellow Honey method. Profile: sweet panela notes, floral, with mild acidity.",
+      "images": [
+        "https://i.ibb.co/YF2BQJfm/cafe-molido-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712874439,
+      "title": "Café Molido Orgánico 250g Tueste Oscuro",
+      "titleEn": "(Organic ground coffee Dark Roast)",
+      "category": "despensa",
+      "price": 3900,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/FbcFvChH/cafe-molido-tueste.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712909698,
+      "title": "Salsa de Tomate 380g",
+      "titleEn": "(Tomato Sauce)",
+      "category": "despensa",
+      "price": 5200,
+      "description": "Ingredientes: tomates, camotes, cebolla, chile dulce, apio, zanahoria, cúrcuma, achiote, sal, azúcar",
+      "descriptionEn": "Ingredients: tomatoes, sweet potatoes, onion, bell pepper, celery, carrot, turmeric, annatto, salt, sugar 380g",
+      "images": [
+        "https://i.ibb.co/9f0sPhK/salsa-tomate-380g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712940752,
+      "title": "Ketchup Cultura Fungi 220g",
+      "titleEn": "",
+      "category": "despensa",
+      "price": 4500,
+      "description": "Ingredientes: tomates, camotes, vinagre manzana, hongos shiitake, hongos melena de león, azúcar, paprika, cúrcuma",
+      "descriptionEn": "Ingredients: tomatoes, sweet potatoes, apple cider vinegar, shiitake mushrooms, lion's mane mushrooms, sugar, paprika, turmeric",
+      "images": [
+        "https://i.ibb.co/Rp2009tC/ketchup-cultura-fungi-220g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792712986918,
+      "title": "Mantequilla de Maní Orgánica 220g",
+      "titleEn": "(Organic Peanut Butter)",
+      "category": "despensa",
+      "price": 4800,
+      "description": "Elaborada en pequeños lotes con maní orgánico tostado y molido en piedra para una textura suave y cremosa. Sin azúcar, sal, aceites ni conservantes añadidos. Ingredientes: 100% maní orgánico (USA)",
+      "descriptionEn": "Made in small batches from roasted organic peanuts, stone-ground for a smooth, creamy texture. No added sugar, salt, oils, or preservatives. Ingredients: 100% organic peanuts (USA)",
+      "images": [
+        "https://i.ibb.co/cXVSNv08/mantequilla-de-mani-220g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713020936,
+      "title": "Mantequilla de Maní Orgánica 450g",
+      "titleEn": "(Organic Peanut Butter)",
+      "category": "despensa",
+      "price": 8600,
+      "description": "Elaborada en pequeños lotes con maní orgánico tostado y molido en piedra para una textura suave y cremosa. Sin azúcar, sal, aceites ni conservantes añadidos. Ingredientes: 100% maní orgánico (USA)",
+      "descriptionEn": "Made in small batches from roasted organic peanuts, stone-ground for a smooth, creamy texture. No added sugar, salt, oils, or preservatives. Ingredients: 100% organic peanuts (USA)",
+      "images": [
+        "https://i.ibb.co/ZR0FXpkb/mantequilla-de-mani-450g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713047270,
+      "title": "Tahini 250g",
+      "titleEn": "",
+      "category": "despensa",
+      "price": 4200,
+      "description": "Elaborado con ajonjolí tostado y molido lentamente en piedra. Producido fresco en pequeños lotes para una textura cremosa y un sabor auténtico. Ideal para hummus, aderezos, repostería y más. Ingredientes: 100% ajonjolí tostado",
+      "descriptionEn": "Made from toasted sesame seeds and slowly stone-ground. Freshly crafted in small batches for a creamy texture and authentic flavor. Perfect for hummus, dressings, baking, and more. Ingredients: 100% toasted sesame seed",
+      "images": [
+        "https://i.ibb.co/ZR0FXpkb/mantequilla-de-mani-450g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713088772,
+      "title": "Mantequilla de Marañon 250g",
+      "titleEn": "(Cashew Butter)",
+      "category": "despensa",
+      "price": 6900,
+      "description": "Ingredientes: 100% marañon",
+      "descriptionEn": "Ingredients: 100% cashew",
+      "images": [
+        "https://i.ibb.co/Kpyx3nhk/mantequilla-de-mara-on.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713119166,
+      "title": "Crema de Almendras 250g",
+      "titleEn": "(Almond Butter)",
+      "category": "despensa",
+      "price": 6500,
+      "description": "Ingredientes: 100% almendras",
+      "descriptionEn": "Ingredients: 100% almonds",
+      "images": [
+        "https://i.ibb.co/9mkjW7tb/crema-de-almendras-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713157850,
+      "title": "Granola Avellanas Chocolate 200g",
+      "titleEn": "(Chocolate Hazelnut Granola)",
+      "category": "despensa",
+      "price": 3900,
+      "description": "Ingredientes: avellanas, avena, azúcar de coco, aceite de coco, chocolate negro, vainilla, agua y mantequilla de maní con coco.",
+      "descriptionEn": "Ingredients: hazelnuts, oats, coconut sugar, coconut oil, dark chocolate, vanilla, water and peanut butter with coconut. 200g",
+      "images": [
+        "https://i.ibb.co/CKN9S6Fx/granola-avellanas-chocolate-200g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713191094,
+      "title": "Granola Avellanas Chocolate 500g",
+      "titleEn": "(Chocolate Hazelnut Granola)",
+      "category": "despensa",
+      "price": 7500,
+      "description": "Ingredientes: avellanas, avena, azúcar de coco, aceite de coco, chocolate negro, vainilla, agua y mantequilla de maní con coco.",
+      "descriptionEn": "Ingredients: hazelnuts, oats, coconut sugar, coconut oil, dark chocolate, vanilla, water and peanut butter with coconut. 500g",
+      "images": [
+        "https://i.ibb.co/jvbpv5LG/granola-avellanas-chocolate-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713267238,
+      "title": "Granola Almendras Coco 200g",
+      "titleEn": "(Almond Coconut Granola)",
+      "category": "despensa",
+      "price": 2600,
+      "description": "Ingredientes: almendras, coco rallado, avena, azúcar de coco, aceite de coco, vainilla, agua y mantequilla de maní con coco",
+      "descriptionEn": "Ingredients: almonds, shredded coconut, oats, coconut sugar, coconut oil, vanilla, water and peanut butter with coconut. 200g",
+      "images": [
+        "https://i.ibb.co/DPrpZWdj/granola-almendras-coco-200g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713339199,
+      "title": "Granola Almendras Coco 500g",
+      "titleEn": "(Almond Coconut Granola)",
+      "category": "despensa",
+      "price": 5600,
+      "description": "Ingredientes: almendras, coco rallado, avena, azúcar de coco, aceite de coco, vainilla, agua y mantequilla de maní con coco",
+      "descriptionEn": "Ingredients: almonds, shredded coconut, oats, coconut sugar, coconut oil, vanilla, water and peanut butter with coconut. 500g",
+      "images": [
+        "https://i.ibb.co/DH4b1KVH/granola-almendras-coco-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713383943,
+      "title": "Granola Mixed 200g",
+      "titleEn": "",
+      "category": "despensa",
+      "price": 3300,
+      "description": "Ingredientes: almendras, marañón, calabaza, girasol, pasas, chocolate, avena, azúcar de coco, aceite de coco, vainilla, agua y mantequilla de maní con coco.",
+      "descriptionEn": "Ingredients: almonds, cashews, pumpkin seeds, sunflower seeds, raisins, chocolate, oats, coconut sugar, coconut oil, vanilla, water and peanut butter with coconut.",
+      "images": [
+        "https://i.ibb.co/5XKNw9mQ/granola-mixed-200g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713422974,
+      "title": "Granola Mixed 500g",
+      "titleEn": "",
+      "category": "despensa",
+      "price": 7200,
+      "description": "Ingredientes: almendras, marañón, calabaza, girasol, pasas, chocolate, avena, azúcar de coco, aceite de coco, vainilla, agua y mantequilla de maní con coco",
+      "descriptionEn": "Ingredients: almonds, cashews, pumpkin seeds, sunflower seeds, raisins, chocolate, oats, coconut sugar, coconut oil, vanilla, water and peanut butter with coconut.",
+      "images": [
+        "https://i.ibb.co/cc3fXtwC/granola-mixed-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713455030,
+      "title": "Hojuelas de Avena Orgánica 400g",
+      "titleEn": "(Organic Rolled Oats)",
+      "category": "despensa",
+      "price": 2900,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/6cBppbwd/hojuelas-de-avena-400g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713589510,
+      "title": "Quinoa Orgánica Blanca 500g",
+      "titleEn": "Quinoa Orgánica Blanca 500g",
+      "category": "despensa",
+      "price": 4400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/n88vf4Sk/quinoa-blanca-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713611206,
+      "title": "Lentejas Rojas Orgánicas 250g",
+      "titleEn": "(Red Lentils)",
+      "category": "despensa",
+      "price": 2400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/SD7thwrT/lentejas-rojas-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713636447,
+      "title": "Lentejas Francesas Orgánicas 250g",
+      "titleEn": "(French Lentils)",
+      "category": "despensa",
+      "price": 3100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/6J4HjH90/lentejas-francesas-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713658278,
+      "title": "Garbanzo Orgánico 250g",
+      "titleEn": "(Organic Chickpeas)",
+      "category": "despensa",
+      "price": 2800,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/LDnpKTC8/garbanzo-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792713683335,
+      "title": "Arroz Blanco Orgánico 500g",
+      "titleEn": "(Organic White Rice)",
+      "category": "despensa",
+      "price": 2500,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/qFLMzPb0/arroz-blanco-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768115220,
+      "title": "Harina de Maíz Azul Nixtamalizada 1kg",
+      "titleEn": "(Blue Corn Flour)",
+      "category": "harinas",
+      "price": 4800,
+      "description": "Hecha con maíz azul integral, sin transgénicos. Nixtamalizada de forma tradicional para mejorar la digestión, el sabor y la absorción de nutrientes. Ideal para tortillas y recetas auténticas. Ingredientes: 100% maíz azul integral Contenido neto: 1 kg",
+      "descriptionEn": "Made from whole blue corn, non-GMO. Traditionally nixtamalized to enhance digestion, flavor, and nutrient absorption. Ideal for tortillas and authentic traditional recipes. Ingredients: 100% whole blue corn Net weight: 1 kg",
+      "images": [
+        "https://i.ibb.co/7tC0bfR7/harina-azul.jpg https://i.ibb.co/zW6VfhNf/maiz-azul.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768149734,
+      "title": "Harina de Maíz Blanca Nixtamalizada 1kg",
+      "titleEn": "(White Corn Flour)",
+      "category": "harinas",
+      "price": 2800,
+      "description": "Hecha con maíz blanca integral, sin transgénicos. Nixtamalizada de forma tradicional para mejorar la digestión, el sabor y la absorción de nutrientes. Ideal para tortillas y recetas auténticas. Ingredientes: 100% maíz blanca integral Contenido neto: 1 kg",
+      "descriptionEn": "Made from whole white corn, non-GMO. Traditionally nixtamalized to enhance digestion, flavor, and nutrient absorption. Ideal for tortillas and authentic traditional recipes. Ingredients: 100% whole white corn Net weight: 1 kg",
+      "images": [
+        "https://i.ibb.co/Zz9Z4KXQ/harina-blanca.jpg https://i.ibb.co/dSvTQJL/maiz-blanca.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768189430,
+      "title": "Harina Multipropósito Libre de Gluten 250g",
+      "titleEn": "(Multipurpose Gluten Free Flour)",
+      "category": "harinas",
+      "price": 2500,
+      "description": "Ingredientes: Harina de plátano verde, harina de camote, harina de sagú y harina de yuca (cultivado sin agroquímicos) Usos: para panadería y repostería en general",
+      "descriptionEn": "Ingredients: Green banana flour, sweet potato flour, arrowroot flour and cassava flour (organic) Ideal for baking and all kinds of pastries and baked goods.",
+      "images": [
+        "https://i.ibb.co/SD4nw3ZN/harina-multipropo-sito-libre.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768222484,
+      "title": "Harina de Yuca 250g",
+      "titleEn": "(Yuca Flour)",
+      "category": "harinas",
+      "price": 2000,
+      "description": "Ingredientes: 100% yuca (cultivado sin agroquímicos)",
+      "descriptionEn": "Ingredients: 100% yuca (organic)",
+      "images": [
+        "https://i.ibb.co/Z5nxFq9/harina-de-yuca-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768256484,
+      "title": "Pasta Gnocchi con Quinoa Orgánico 250g",
+      "titleEn": "",
+      "category": "pastas",
+      "price": 2350,
+      "description": "Ingredientes: *70% de papas rehidratadas, *10% de harina de quinoa, harina de maíz, *almidón de papa 6%, *almidón de maíz, *harina de arroz, sal. Regulador de acidez: ácido láctico. *Orgánico.",
+      "descriptionEn": "Ingredients: *70% rehydrated potatoes, *10% quinoa flour, corn flour, *6% potato starch, *corn starch, *rice flour, salt. Acidity regulator: lactic acid. *Organic.",
+      "images": [
+        "https://i.ibb.co/8gfvBzTR/pasta-gnocchi-con-quinoa.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768298402,
+      "title": "Pasta Arroz Integral Mini Fusilli 250g",
+      "titleEn": "(Gluten Free Brown Rice Pasta)",
+      "category": "pastas",
+      "price": 1850,
+      "description": "Deliciosa pasta 100% natural, libre de gluten, kosher, vegana. Ingredientes: Harina de arroz integral, fibra de bambú",
+      "descriptionEn": "Ingredients: Brown rice flour, bamboo fiber",
+      "images": [
+        "https://i.ibb.co/b5Ryqx24/pasta-arroz-integral-mini-fusilli.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768336570,
+      "title": "Spaghetti Arroz Integral 250g",
+      "titleEn": "(Gluten Free Brown Rice Spaghetti)",
+      "category": "pastas",
+      "price": 2200,
+      "description": "Deliciosa pasta 100% natural, libre de gluten, kosher, vegana. Ingredientes: Harina de arroz integral, fibra de bambú",
+      "descriptionEn": "Ingredients: Brown rice flour, bamboo fiber",
+      "images": [
+        "https://i.ibb.co/kVmdPHBM/spaghetti-arroz-integral-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768371980,
+      "title": "Pasta Orgánica de Quinoa Blanca 227g",
+      "titleEn": "(Organic White Quinoa Pasta)",
+      "category": "pastas",
+      "price": 2800,
+      "description": "Libre de gluten, 100% vegana, rica en proteína vegetal. Ingredientes: Harina precocida de Quinoa Real Orgánica Blanca, Harina de yuca orgánica.",
+      "descriptionEn": "Harina de yuca orgánica. Gluten free, vegan, rich in protein Ingredients: Organic white quinoa flour, organic cassava flour",
+      "images": [
+        "https://i.ibb.co/1GGbxRBn/pasta-quinoa-blanca.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768412766,
+      "title": "Pasta Orgánica de Quinoa Negra 227g",
+      "titleEn": "(Organic Black Quinoa Pasta)",
+      "category": "pastas",
+      "price": 2800,
+      "description": "Libre de gluten, 100% vegana, rica en proteína vegetal. Ingredientes: Harina precocida de Quinoa Real Orgánica Negra, Harina de yuca orgánica.",
+      "descriptionEn": "Gluten free, vegan, rich in protein Ingredients: Organic black quinoa flour, organic cassava flour",
+      "images": [
+        "https://i.ibb.co/pvfVwSDL/pasta-quinoa-negra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768448604,
+      "title": "Pasta Orgánica de Quinoa Roja 227g",
+      "titleEn": "(Organic Red Quinoa Pasta)",
+      "category": "pastas",
+      "price": 2800,
+      "description": "Libre de gluten, 100% vegana, rica en proteína vegetal. Ingredientes: Harina precocida de Quinoa Real Orgánica Roja, Harina de yuca orgánica",
+      "descriptionEn": "Gluten free, vegan, rich in protein Ingredients: Organic red quinoa flour, organic cassava flour",
+      "images": [
+        "https://i.ibb.co/prfRYTNy/pasta-quinoa-roja.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768464372,
+      "title": "Pasta Penne Orgánico 500g",
+      "titleEn": "",
+      "category": "pastas",
+      "price": 1950,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/snGGsc7/pasta-penne.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768477692,
+      "title": "Pasta Spaguetti Orgánico 500g",
+      "titleEn": "",
+      "category": "pastas",
+      "price": 1950,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/ZRh7FsK9/fettucine-500g-pasta.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768491700,
+      "title": "Pasta Fettuccine Orgánico 500g",
+      "titleEn": "",
+      "category": "pastas",
+      "price": 1950,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/ZRh7FsK9/fettucine-500g-pasta.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768522797,
+      "title": "500ml Aceite de Oliva Extra Virgen Orgánico",
+      "titleEn": "(Extra Virgin Organic Olive Oil)",
+      "category": "aceites",
+      "price": 6700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/8g2VBXTL/aceite-de-oliva-extra-virgen.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768575120,
+      "title": "250ml Aceite de Aguacate Extra Virgen Orgánico",
+      "titleEn": "(Extra Virgin Avocado Oil)",
+      "category": "aceites",
+      "price": 6400,
+      "description": "100% Aceite de aguacate extra virgen de alta calidad, elaborado mediante prensado en frío y obtenido exclusivamente de la pulpa del aguacate. Un aceite puro y natural que conserva las propiedades y el sabor del fruto, llevando a tu mesa todo lo bueno del aguacate.",
+      "descriptionEn": "100% Extra virgin avocado oil is made exclusively from the finest avocado pulp using a careful cold-pressing process. The result is a pure, high-quality oil that preserves the natural goodness of the avocado and brings its wholesome benefits to your table.",
+      "images": [
+        "https://i.ibb.co/B5s8PYXN/aceite-de-aguacate.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768616376,
+      "title": "Aceite Coco Orgánico 200ml",
+      "titleEn": "(Coconut Oil)",
+      "category": "aceites",
+      "price": 4200,
+      "description": "Aceite de coco prensado en frío, 100% puro y orgánico. Elaborado con cocos cultivados en las playas de la costa caribeña. Su pureza se refleja en su sabor limpio y fresco.",
+      "descriptionEn": "Cold-pressed coconut oil, 100% pure and organic. Made with beach-grown coconuts from the Caribbean coast. Its purity is reflected in its clean, fresh taste.",
+      "images": [
+        "https://i.ibb.co/3YdzV4tD/aceite-coco-200ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768659333,
+      "title": "Aceite de Coco Orgánico 418ml",
+      "titleEn": "(Coconut oil)",
+      "category": "aceites",
+      "price": 6500,
+      "description": "Aceite de coco prensado en frío, 100% puro y orgánico. Elaborado con cocos cultivados en las playas de la costa caribeña. Su pureza se refleja en su sabor limpio y fresco",
+      "descriptionEn": "Cold-pressed coconut oil, 100% pure and organic. Made with beach-grown coconuts from the Caribbean coast. Its purity is reflected in its clean, fresh taste.",
+      "images": [
+        "https://i.ibb.co/ymycH8Kh/aceite-coco-418ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768688813,
+      "title": "Aceite de Coco Orgánico 940ml",
+      "titleEn": "(Coconut oil)",
+      "category": "aceites",
+      "price": 12500,
+      "description": "Aceite de coco prensado en frío, 100% puro y orgánico. Elaborado con cocos cultivados en las playas de la costa caribeña. Su pureza se refleja en su sabor limpio y fresco",
+      "descriptionEn": "Cold-pressed coconut oil, 100% pure and organic. Made with beach-grown coconuts from the Caribbean coast. Its purity is reflected in its clean, fresh taste.",
+      "images": [
+        "https://i.ibb.co/23T0XLzS/aceite-coco-940ml.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768731237,
+      "title": "Mezcla Dorada 50g",
+      "titleEn": "(Golden Mix)",
+      "category": "salsas",
+      "price": 4500,
+      "description": "Mezcla de especias para preparar Golden Milk. Ingredientes: cúrcuma, jengibre, especias y pimienta negra Uso: Hierva 1 taza de su leche favorita o agua, agregue 1 cdta de Mezcla Dorada, revuelva bien, agregue 1 cdta de vainilla, 1 cdta de aceite de coco, endulce a su gusto y disfrute esta deliciosa bebida.",
+      "descriptionEn": "Spice blend for preparing Golden Milk. Ingredients: turmeric, ginger, spices, and black pepper. Directions: Bring 1 cup of your favorite milk or water to a boil. Add 1 tsp of Golden Milk Spice Blend and stir well. Add 1 tsp of vanilla, 1 tsp of coconut oil, sweeten to taste, and enjoy this delicious drink.",
+      "images": [
+        "https://i.ibb.co/spxwwFTk/mezcla-dorada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768815380,
+      "title": "Cúrcuma en Polvo 50g",
+      "titleEn": "(Turmeric Powder)",
+      "category": "salsas",
+      "price": 3500,
+      "description": "Ingredientes: cúrcuma pura",
+      "descriptionEn": "Ingredients: turmeric",
+      "images": [
+        "https://i.ibb.co/4wFgvYSv/curcuma-en-plovo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768839967,
+      "title": "Zacate de Limón en Polvo 30g",
+      "titleEn": "(Ground LemonGrass)",
+      "category": "salsas",
+      "price": 2000,
+      "description": "100% Zacate de Limon Orgánico producido en Costa Rica",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Ps2wdcP5/zacate-limon.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768875416,
+      "title": "Cúrcuma en Polvo 35g",
+      "titleEn": "(Ground Turmeric)",
+      "category": "salsas",
+      "price": 2000,
+      "description": "100% Cúrcuma orgánica producida en Costa Rica",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/bR2sn3k0/curcuma-35g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768916448,
+      "title": "Pimienta negra en Polvo 60g",
+      "titleEn": "(Ground Black Pepper)",
+      "category": "salsas",
+      "price": 2400,
+      "description": "100% Pimienta negra producida en Costa Rica",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Q7JNYp9T/pimienta-negra.jpg80"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768940138,
+      "title": "Jengibre en Polvo 40g",
+      "titleEn": "(Organic Ginger Powder)",
+      "category": "salsas",
+      "price": 2000,
+      "description": "100% Jengibre orgánica producido en Costa Rica",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/pBLYY5GK/jengibre-en-polvo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792768979688,
+      "title": "Sal Marina a las Hierbas",
+      "titleEn": "(Italian style Sea Salt)",
+      "category": "salsas",
+      "price": 3000,
+      "description": "Ingredientes: sal marina, orégano, perejil, albahaca, pimienta negra, romero y tomillo",
+      "descriptionEn": "Ingredients: sea salt, oregano, parsley, basil, black pepper, rosemary, and thyme.",
+      "images": [
+        "https://i.ibb.co/VW0CXrBp/sal-marina-a-las-hierbas.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769011590,
+      "title": "Sal Marina Chile panameño y limón",
+      "titleEn": "(Panamanian pepper and lemon sea salt)",
+      "category": "salsas",
+      "price": 3000,
+      "description": "Ingredientes: sal marina, chile panameño y limón",
+      "descriptionEn": "Ingredients: sea salt, panamanian pepper and lemon",
+      "images": [
+        "https://i.ibb.co/Y7XgTgwY/sal-marina-chile.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769041208,
+      "title": "Sal Marina Parrillera",
+      "titleEn": "(Grill Mix)",
+      "category": "salsas",
+      "price": 3000,
+      "description": "Ingredientes: sal marina, cristales de sal marina, pimienta negra, paprika, orégano y tomillo",
+      "descriptionEn": "Ingredients: sea salt, sea salt crystals, black pepper, paprika, oregano, and thyme.",
+      "images": [
+        "https://i.ibb.co/zWhk6dhS/sal-amrina-parrillera.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769082543,
+      "title": "Sal Gourmet Vino tinto y finas hierbas",
+      "titleEn": "(Red wine and fine herbs Salt)",
+      "category": "salsas",
+      "price": 3700,
+      "description": "Ingredientes: sal marina, vino tinto, orégano, tomillo y romero",
+      "descriptionEn": "Ingredients: sea salt, red wine, oregano, thyme and rosemary",
+      "images": [
+        "https://i.ibb.co/1fFhRWC1/sal-gourment.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769117805,
+      "title": "Sal marina Sazón Todo en 1",
+      "titleEn": "(All in 1 seasoning)",
+      "category": "salsas",
+      "price": 3800,
+      "description": "Ingredientes: sal marina, ajo, cebolla, perejil, cúrcuma, pimienta negra, orégano, tomillo, romero y albahaca",
+      "descriptionEn": "Ingredients: Sea salt, garlic, onion, parsley, turmeric, black pepper, oregano, thyme, rosemary, and basi",
+      "images": [
+        "https://i.ibb.co/PZ27Hy7r/sal-marina-zason.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769150869,
+      "title": "Sal marina Dorada",
+      "titleEn": "(Golden Salt)",
+      "category": "salsas",
+      "price": 3700,
+      "description": "Ingredientes: cúrcuma, pimienta negra, orégano y hojas de laurel",
+      "descriptionEn": "Ingredients: Turmeric, black pepper, oregano, and bay leaves.",
+      "images": [
+        "https://i.ibb.co/z1GSjQm/sal-amrina-dorada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769220109,
+      "title": "Sazón Completo de Hierbas",
+      "titleEn": "(Complete Herb Seasoning)",
+      "category": "salsas",
+      "price": 2600,
+      "description": "Pachamama Sazón Natural es una combinación cuidadosamente seleccionada de hierbas aromáticas y especias deshidratadas, creada para darle a tus comidas un sabor casero, natural y lleno de aroma. Una mezcla práctica y versátil que te permite tener varios de tus condimentos favoritos en un solo producto. Ideal para darle ese toque especial a arroz, frijoles, sopas, picadillos, carnes, pollo, huevos, vegetales, salsas y mucho más. Ingredientes: Albahaca, perejil, culantro Castilla, culantro coyote, laurel, pimienta negra, apio, ajo granulado, romero, tomillo, orégano.",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/RksDYtRQ/sazon-completo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769250140,
+      "title": "Sal Himalaya fina 460g",
+      "titleEn": "(Pink salt)",
+      "category": "salsas",
+      "price": 2800,
+      "description": "",
+      "descriptionEn": "Fine Himalaya Salt",
+      "images": [
+        "https://i.ibb.co/p6W9C2jt/sal-himalaya-fina.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769281515,
+      "title": "Sal Himalaya gruesa 460g",
+      "titleEn": "(Pink salt)",
+      "category": "salsas",
+      "price": 2800,
+      "description": "",
+      "descriptionEn": "Coarse Himalaya Salt 460g",
+      "images": [
+        "https://i.ibb.co/mVQGLGm9/sal-himalaya-gruesa.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769307294,
+      "title": "Sal Negra gruesa 250g",
+      "titleEn": "(Black salt)",
+      "category": "salsas",
+      "price": 2800,
+      "description": "",
+      "descriptionEn": "Coarse Black Salt 250g",
+      "images": [
+        "https://i.ibb.co/cSzj383T/sal-negra-gruesa.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769348989,
+      "title": "Braggs Levadura Nutricional 127g",
+      "titleEn": "(Nutritional Yeast)",
+      "category": "salsas",
+      "price": 5800,
+      "description": "Levadura nutricional Bragg — Delicioso sabor salado y tipo queso, de origen vegetal. Ideal para agregar a pastas, ensaladas, sopas, vegetales y más. Ingredientes: Levadura nutricional inactiva.",
+      "descriptionEn": "Bragg Nutritional Yeast — A delicious, plant-based source of savory, cheesy flavor. Perfect for adding to pasta, salads, soups, vegetables, and more. Ingredients: Inactive nutritional yeast.",
+      "images": [
+        "https://i.ibb.co/gLgsgv4m/braggs-levadura.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769386098,
+      "title": "Chutney Salsa Brava",
+      "titleEn": "(medium hot)",
+      "category": "salsas",
+      "price": 2900,
+      "description": "Ingredientes: piña, maracuya, mango, vinagre blanco, azúcar moreno, clavo de olor y pimienta negra",
+      "descriptionEn": "Ingredients: Pineapple, passion fruit, mango, white vinegar, brown sugar, cloves, and black pepper.",
+      "images": [
+        "https://i.ibb.co/G4cgbwMr/chutney-salsa-brava.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792769429638,
+      "title": "Salsa Volcán",
+      "titleEn": "(Carolina Reaper - Extra hot)",
+      "category": "salsas",
+      "price": 2900,
+      "description": "Ingredientes: zanahoria, cebolla, tomate, sal marina, pimienta negra, especias, vinagre blanco y chile Carolina Reaper",
+      "descriptionEn": "Ingredients: carrot, onion, tomato, sea salt, black pepper, spices, white vinegar, and Carolina Reaper chili.",
+      "images": [
+        "https://i.ibb.co/Vd7cCd1/salsa-volcan.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772074663,
+      "title": "40g Té Tranquilidad Nocturna",
+      "titleEn": "(Evening Tranquility)",
+      "category": "tes",
+      "price": 4500,
+      "description": "Calmante, Relajante, Armonizante. Ayuda a relajar el sistema nervioso. Favorece la digestión y alivia tensiones Ingredientes: Juanilama, hinojo, raíz de regaliz, manzanilla (planta entera), manzanilla (flores), pétalos de rosa, lavanda, menta Calming,",
+      "descriptionEn": "Relaxing, Balanzing. Supports nervous system relaxation. Perfect for unwinding at the end of the day. Ingredients: juanilama, fennel, licorice root, chamomile (whole plant), chamomile (flowers), rose petals, lavender, mint",
+      "images": [
+        "https://i.ibb.co/Z6742KbP/tranuilidad.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772112537,
+      "title": "40g Té Barriguita Féliz",
+      "titleEn": "(Happy Belly)",
+      "category": "tes",
+      "price": 4500,
+      "description": "Ingredientes: Juanilama, zacate limón, raíz de regaliz, hinojo, semillas de culantro, canela, jengibre, cardamomo",
+      "descriptionEn": "Ingredients: juanilama, lemongrass, licorice root, fennel, coriander seeds, cinnamon, ginger, cardamom",
+      "images": [
+        "https://i.ibb.co/3ncXKYN/Barriguita-Feliz.jpg https://i.ibb.co/3ncXKYN/Barriguita-Feliz.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772145286,
+      "title": "40g Golden Detox",
+      "titleEn": "",
+      "category": "tes",
+      "price": 4500,
+      "description": "Ingredientes: zacate limón, jengibre, cúrcuma, raíz de regaliz, canela, hinojo, naranja, pimienta negra, cardamomo.",
+      "descriptionEn": "Ingredients: juanilama, lemongrass, licorice root, fennel, coriander seeds, cinnamon, ginger, cardamom",
+      "images": [
+        "https://i.ibb.co/BVkkJ7y0/Detox.jpg https://i.ibb.co/BVkkJ7y0/Detox.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772168901,
+      "title": "Semillas de Calabaza 150g",
+      "titleEn": "(Pumpkin Seeds)",
+      "category": "nueces",
+      "price": 3350,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/nxPS3Th/semillas-calabaza.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772187965,
+      "title": "Semillas de Girasol Orgánicas 100g",
+      "titleEn": "(Sunflower seeds)",
+      "category": "nueces",
+      "price": 1480,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/GZ8JRh7/semilla-girasol.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772210621,
+      "title": "Semillas de Chia Organicas 150g",
+      "titleEn": "Organic Chia seeds",
+      "category": "nueces",
+      "price": 3100,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/My37mTGG/semillas-chia.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772229197,
+      "title": "Nuez Nogal Organico 250g",
+      "titleEn": "Organic Walnuts",
+      "category": "nueces",
+      "price": 5400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/3m0MBFgC/nuez-nogal-250g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772246645,
+      "title": "Maní Orgánico 150g",
+      "titleEn": "(Organic Peanuts)",
+      "category": "nueces",
+      "price": 2800,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/nMY7VHH7/mani-organico.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772271533,
+      "title": "Trail Mix Orgánico 150g",
+      "titleEn": "",
+      "category": "nueces",
+      "price": 3500,
+      "description": "Ingredientes: Arándanos, pasas, manzana, marañon, pepitas, maní",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/hFZFzyqq/trail-mix-150g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772291613,
+      "title": "Arandanos Organicos 100g",
+      "titleEn": "(Cranberries)",
+      "category": "nueces",
+      "price": 2200,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/dw8M4wyc/arandanos.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772315013,
+      "title": "Dátiles Orgánicos 250g",
+      "titleEn": "(Sun dried Dates)",
+      "category": "nueces",
+      "price": 4000,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/n8QYBsfR/datiles-1kg.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772427493,
+      "title": "Dátiles Orgánicos 1kg",
+      "titleEn": "(Sun dried Dates)",
+      "category": "nueces",
+      "price": 12000,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/n8QYBsfR/datiles-1kg.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772449893,
+      "title": "Higos secos Orgánicos 150g",
+      "titleEn": "(Sun dried Figs)",
+      "category": "nueces",
+      "price": 3950,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/Fq8hLrh8/higos-secos.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772481469,
+      "title": "Ciruelas Orgánicas 150g",
+      "titleEn": "(Prunes)",
+      "category": "nueces",
+      "price": 5250,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/rG5MYWLp/ciruelas-150g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772501917,
+      "title": "Pasas Orgánicas 150g",
+      "titleEn": "(Raisins)",
+      "category": "nueces",
+      "price": 2500,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/mCncxS95/pasas-150g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772622769,
+      "title": "Bocaditos de Queso -- Ajo Romero 42g",
+      "titleEn": "(Cheese Bites -- Rosemary Garlic)",
+      "category": "snacks",
+      "price": 1850,
+      "description": "Peso 42g Ingredientes: Almidón de yuca, queso de animales alimentados con pasto (leche de animales alimentados con pasto, sal, enzimas), leche, mantequilla, ajo, sal, huevo, polvo de hornear, romero y sabores naturales",
+      "descriptionEn": "Ingredients: Cassava starch, grass-fed cheese (grass-fed milk, salt, enzymes), milk, butter, salt, egg, baking powder, rosemary, garlic and natural flavor.",
+      "images": [
+        "https://i.ibb.co/XZqPJQmb/Ajo-Romero.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772669737,
+      "title": "Bocaditos de Queso -- Clásico 42g",
+      "titleEn": "(Cheese Bites -- Classic)",
+      "category": "snacks",
+      "price": 1850,
+      "description": "Peso: 42g Ingredientes: Almidón de yuca, queso de animales alimentados con pasto (leche de animales alimentados con pasto, sal, enzimas), leche, mantequilla, sal, huevo, polvo de hornear",
+      "descriptionEn": "Ingredients: Cassava starch, grass-fed cheese (grass-fed milk, salt, enzymes), milk, butter, salt, egg, baking powder",
+      "images": [
+        "https://i.ibb.co/qYWvjDdc/Clasico.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772710301,
+      "title": "Galleta de Quinoa -- Doble Chocolate 200g",
+      "titleEn": "(Double Chocolate Quinoa Cookies)",
+      "category": "snacks",
+      "price": 3000,
+      "description": "Gluten Free Ingredientes: Harina de Quinoa Real, almidón de tapioca, harina de arroz, aceite vegetal sin hidrogenar, jarabe de azúcar, cacao, chips de chocolate, semillas de chía, azúcar, esencia de vainilla natural y bicarbonato de sodio.",
+      "descriptionEn": "Ingredients: Royal Quinoa flour, tapioca starch, rice flour, non-hydrogenated vegetable oil, sugar syrup, cocoa powder, dark chocolate chips, chia seeds, sugar, natural vanilla essence and sodium bicarbonate.",
+      "images": [
+        "https://i.ibb.co/qLLn1ynG/doble-chocolate.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792772764197,
+      "title": "Galleta de Quinoa -- Jengibre Limón 200g",
+      "titleEn": "(Ginger Lemon Quinoa Cookies)",
+      "category": "snacks",
+      "price": 3000,
+      "description": "Gluten Free Ingredientes: Harina de Quinoa Real, almidón de tapioca, harina de arroz, aceite vegetal sin hidrogenar, jarabe de azúcar, quinoa insuflada, azúcar, esencia de jengibre natural y esencia de limón natural, bicarbonato de sodio",
+      "descriptionEn": "Ingredients: Royal Quinoa flour, tapioca starch, rice flour, non-hydrogenated vegetable oil, sugar syrup, insufflated quinoa, sugar, natural ginger essence, natural lemon essence and sodium bicarbonat",
+      "images": [
+        "https://i.ibb.co/Q7hkfq3f/jenjibre-Limon.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774167835,
+      "title": "Chocolate oscuro 80% – melena de león",
+      "titleEn": "(Lion's Mane Mushroom Chocolate)",
+      "category": "chocolates",
+      "price": 2500,
+      "description": "Peso 50g Ingredientes: Cacao, azúcar de caña, manteca de cacao, extracto concentrado de hongo melena de león",
+      "descriptionEn": "Ingredients: Cocoa, cane sugar, cocoa butter, 1g of concentrated lion's mane mushroom extract",
+      "images": [
+        "https://i.ibb.co/X1CX7TF/chocolate-melena.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774208983,
+      "title": "Chocolate oscuro 80% – Reishi",
+      "titleEn": "(Reishi Mushroom Chocolate)",
+      "category": "chocolates",
+      "price": 2500,
+      "description": "Peso 50g Ingredientes: Cacao, azúcar de caña, manteca de cacao, extracto concentrado de hongo reishi 1g",
+      "descriptionEn": "Ingredients: Cocoa, cane sugar, cocoa butter, 1g of concentrated reishi mushroom extract",
+      "images": [
+        "https://i.ibb.co/fztsHWv0/chocolate-oscuro.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774356799,
+      "title": "Chocolate oscuro 80% – Shiitake",
+      "titleEn": "(Shiitake Mushroom Chocolate)",
+      "category": "chocolates",
+      "price": 2500,
+      "description": "Peso 50g Ingredientes: Cacao, azúcar de caña, manteca de cacao, extracto concentrado de hongo shiitake 1g",
+      "descriptionEn": "Ingredients: Cocoa, cane sugar, cocoa butter, 1g of concentrated shiitake mushroom extract",
+      "images": [
+        "https://i.ibb.co/spgr0bLX/chocolate-reishi.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774384526,
+      "title": "Chocolate oscuro 72% Cúrcuma & Sal Rosada",
+      "titleEn": "(Turmeric & Pink Salt)",
+      "category": "chocolates",
+      "price": 1800,
+      "description": "Peso 35g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/rfytXMMD/chocolate-curcuma.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774476577,
+      "title": "Chocolate oscuro 72% Café",
+      "titleEn": "",
+      "category": "chocolates",
+      "price": 2000,
+      "description": "Peso 45g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/fztsHWv0/chocolate-oscuro.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774516187,
+      "title": "Chocolate Naranja Marañón 72%",
+      "titleEn": "(Orange & Cashew)",
+      "category": "chocolates",
+      "price": 2000,
+      "description": "Peso 45g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/q3dQ1rSs/chocolate-naranja.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774539339,
+      "title": "Chocolate oscuro 72%",
+      "titleEn": "",
+      "category": "chocolates",
+      "price": 2000,
+      "description": "Peso 45g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/cKFqjGvk/chocolate-72-de-45g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774569302,
+      "title": "Almendra cubierta con chocolate de leche",
+      "titleEn": "(Milk Chocolate covered Almonds)",
+      "category": "chocolates",
+      "price": 2200,
+      "description": "Peso 70g Ingredientes Chocolate de leche (azúcar orgánica, cacao orgánico, manteca de cacao, leche en polvo y lecitina de semilla de girasol orgánica), almendras y shellac (abrillantador natural).",
+      "descriptionEn": "Ingredients Milk chocolate (organic sugar, organic cacao, cocoa butter, whole milk powder and organic sunflower lecithin), almonds and shellac (natural glaze).",
+      "images": [
+        "https://i.ibb.co/5XCH13FL/almendra-cubierta-con-chocolate.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774599913,
+      "title": "Granos de Café cubiertos con chocolate",
+      "titleEn": "(Chocolate covered coffee beans)",
+      "category": "chocolates",
+      "price": 2200,
+      "description": "Peso 70g Ingredientes Chocolate oscuro (cacao orgánico, azúcar orgánica, manteca de cacao y lecitina de semilla de girasol orgánica), granos de café orgánico y shellac (abrillantador natural). Puede contener trazas de leche y nueces.",
+      "descriptionEn": "Ingredients Dark chocolate (organic cacao, organic sugar, cocoa butter and organic sunflower lecithin), organic coffee beans and shellac (natural glaze). May contain traces of milk and tree nuts.",
+      "images": [
+        "https://i.ibb.co/pBMjqDv4/granos-de-cafe.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774620599,
+      "title": "Chocolate 70% Origina",
+      "titleEn": "",
+      "category": "chocolates",
+      "price": 2800,
+      "description": "Peso 50g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/KpJxTsMY/chocolate-70-original.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774645998,
+      "title": "Chocolate 70% Sal Rosada",
+      "titleEn": "(Pink Salt)",
+      "category": "chocolates",
+      "price": 2800,
+      "description": "Peso 50g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/kVncBHw5/chocolate-rosada.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774667710,
+      "title": "Chocolate 70% Almendra",
+      "titleEn": "(Almond)",
+      "category": "chocolates",
+      "price": 2800,
+      "description": "Peso 50g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/CcXTCpg/chocolate-almendra.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774697910,
+      "title": "Chocolate 70% Flor de Jamaica y Sal",
+      "titleEn": "(Hibiscus Flower & Salt)",
+      "category": "chocolates",
+      "price": 2800,
+      "description": "Peso 50g",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/qFJ7jHyr/chocolate-flor-de-jamaica.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774785142,
+      "title": "Cacao en Polvo 200g",
+      "titleEn": "(Cacao Powder)",
+      "category": "chocolates",
+      "price": 2800,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/s9p0kksT/cacao-en-polvo-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774804487,
+      "title": "Cacao en Polvo 500g",
+      "titleEn": "(Cacao Powder)",
+      "category": "chocolates",
+      "price": 6700,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/s9p0kksT/cacao-en-polvo-500g.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774817862,
+      "title": "Cacao Nibs 200g",
+      "titleEn": "",
+      "category": "chocolates",
+      "price": 3400,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/C3zwLXMq/cacao-nibs.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774835246,
+      "title": "Semillas de Cacao Tostadas 200g",
+      "titleEn": "(Toasted Cacao Seeds)",
+      "category": "chocolates",
+      "price": 2900,
+      "description": "",
+      "descriptionEn": "",
+      "images": [
+        "https://i.ibb.co/S7ZCVqFz/cacao-tostado.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774862623,
+      "title": "1kg Cacao Ceremonial",
+      "titleEn": "",
+      "category": "chocolates",
+      "price": 22000,
+      "description": "Ingredientes: 100% cacao libre de agroquímicos",
+      "descriptionEn": "Ingredients: 100% organic cacao.",
+      "images": [
+        "https://i.ibb.co/HTLdsjW9/1-KG-cacao-ceremonial.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774945358,
+      "title": "Champú para el Crecimiento del cabello 250ml",
+      "titleEn": "Hair Growth Shampoo",
+      "category": "cuidado",
+      "price": 11000,
+      "description": "Un champú botánico suave, elaborado con plantas tradicionalmente utilizadas para favorecer un cabello más fuerte, de aspecto saludable y un crecimiento saludable. Sus limpiadores suaves de origen vegetal eliminan las impurezas mientras ayudan a preservar la humedad natural, dejando el cabello fresco, suave y revitalizado. Modo de uso: Aplicar sobre el cabello y cuero cabelludo mojados. Masajear suavemente hasta crear espuma y enjuagar bien. Repetir si se desea. Precauciones: Solo para uso externo. Evitar el contacto con los ojos. Suspender su uso si se presenta irritación.",
+      "descriptionEn": "Ingredientes: Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis Leaf Extract, Glycerin, Panthenol, Rosmarinus Officinalis Leaf Oil, Mentha Piperita Oil, Xanthan Gum, Spirulina Platensis Extract, Methylpropanediol, Caprylyl Glycol, Polyquaternium-80, Didecyldimonium Chloride. - A gentle botanical shampoo crafted with plants traditionally used to support stronger, healthier-looking hair and healthy growth. Mild, plant-derived cleansers remove impurities while helping preserve natural moisture, leaving hair fresh, soft, and revitalized. Directions: Apply to wet hair and scalp. Gently massage to create a lather, then rinse thoroughly. Repeat if desired. Caution: For external use only. Avoid contact with eyes. Discontinue use if irritation occurs. Ingredients: Aqua, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Aloe Barbadensis Leaf Extract, Glycerin, Panthenol, Rosmarinus Officinalis Leaf Oil, Mentha Piperita Oil, Xanthan Gum, Spirulina Platensis Extract, Methylpropanediol, Caprylyl Glycol, Polyquaternium-80, Didecyldimonium Chloride.",
+      "images": [
+        "https://i.ibb.co/21DM4YWv/champu.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792774998543,
+      "title": "Acondicionador Terapia Capilar 250ml",
+      "titleEn": "Hair Therapy Conditioner",
+      "category": "cuidado",
+      "price": 11000,
+      "description": "Un acondicionador botánico nutritivo, elaborado con plantas cuidadosamente seleccionadas y tradicionalmente utilizadas para favorecer un cabello más fuerte, de aspecto saludable y un crecimiento saludable. Su fórmula acondicionadora ayuda a restaurar la hidratación, la suavidad y la manejabilidad, mientras reduce la apariencia de resequedad y frizz, dejando el cabello suave, nutrido y naturalmente radiante. Modo de uso: Aplicar sobre el cabello limpio y húmedo, enfocándose en medios y puntas. Dejar actuar de 2 a 3 minutos y enjuagar bien. Precauciones: Solo para uso externo. Evitar el contacto con los ojos. Suspender su uso si se presenta irritación.",
+      "descriptionEn": "Ingredientes: Aqua, Behentrimonium Methosulfate, Cetyl Alcohol, Butylene Glycol, Glycerin, Prunus Amygdalus Dulcis Oil, Olea Europaea Fruit Oil, Panthenol, Rosmarinus Officinalis Leaf Oil, Mentha Piperita Oil, Melaleuca Alternifolia Leaf Oil, Methylpropanediol, Caprylyl Glycol, Polyquaternium-80, Didecyldimonium Chloride. - A nourishing botanical conditioner crafted with carefully selected plants traditionally used to support stronger, healthier-looking hair and healthy growth. Its conditioning formula helps restore moisture, softness, and manageability while reducing the appearance of dryness and frizz, leaving hair smooth, nourished, and naturally radiant. Directions: Apply to clean, damp hair, focusing on mid-lengths and ends. Leave on for 2–3 minutes, then rinse thoroughly. Caution: For external use only. Avoid contact with eyes. Discontinue use if irritation occurs. Ingredients: Aqua, Behentrimonium Methosulfate, Cetyl Alcohol, Butylene Glycol, Glycerin, Prunus Amygdalus Dulcis Oil, Olea Europaea Fruit Oil, Panthenol, Rosmarinus Officinalis Leaf Oil, Mentha Piperita Oil, Melaleuca Alternifolia Leaf Oil, Methylpropanediol, Caprylyl Glycol, Polyquaternium-80, Didecyldimonium Chloride.",
+      "images": [
+        "https://i.ibb.co/MyRLwb8w/acondicionador.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775046758,
+      "title": "Limpiador Facial Ethereal Bloom 100ml -",
+      "titleEn": "Ethereal Bloom Facial Cleanser",
+      "category": "cuidado",
+      "price": 6800,
+      "description": "Modo de uso: Aplicar sobre la piel húmeda, masajear suavemente y enjuagar. Usar diariamente, por la mañana y por la noche.",
+      "descriptionEn": "Ingredientes: Aqua, Glycerin, Caprylyl Glucoside, Cocamidopropyl Betaine, Litsea Ternatea Flower Extract, Lavandula Angustifolia Oil, Xanthan Gum, Citric Acid, conservante natural. - Directions: Apply to damp skin, massage gently, and rinse. Use daily, morning and night. Ingredients: Aqua, Glycerin, Caprylyl Glucoside, Cocamidopropyl Betaine, Litsea Ternatea Flower Extract, Lavandula Angustifolia Oil, Xanthan Gum, Citric Acid, Natural Preservative.",
+      "images": [
+        "https://i.ibb.co/Ld0PS44X/limpiardor-facial.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775096081,
+      "title": "Sérum Facial Sacred Cacao 30ml",
+      "titleEn": "Sacred Cacao Facial Serum",
+      "category": "cuidado",
+      "price": 13600,
+      "description": "Modo de uso: Aplicar sobre la piel limpia y húmeda. Usar una gota por la mañana o por la noche. Propiedades indicadas en la etiqueta: Ayuda a combatir los signos de la edad. Ayuda a reducir la apariencia de ojeras y enrojecimiento. Ayuda a calmar la piel. Hidratante. Precauciones: No exponer el frasco a la luz solar directa ni al calor",
+      "descriptionEn": "Ingredientes: Vitis Vinifera Seed Oil, Calendula Officinalis Flower Extract, Coffea Arabica Seed Extract & Essential Oil, Theobroma Cacao Extract & Essential Oil, Tocopherol (Vitamin E). - Directions: Apply to clean, damp skin. Use one drop in the morning or at night. Properties stated on the label: Helps combat signs of aging. Helps reduce the appearance of dark circles and redness. Helps soothe the skin. Moisturizer. Caution: Do not expose the bottle to direct sunlight or heat. Ingredients: Vitis Vinifera Seed Oil, Calendula Officinalis Flower Extract, Coffea Arabica Seed Extract & Essential Oil, Theobroma Cacao Extract & Essential Oil, Tocopherol (Vitamin E).",
+      "images": [
+        "https://i.ibb.co/PZkFvmjj/serum-facial.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775140870,
+      "title": "Limpiador Íntimo Healthy Yoni 250ml",
+      "titleEn": "Healthy Yoni Intimate Wash",
+      "category": "cuidado",
+      "price": 12300,
+      "description": "Un limpiador íntimo suave y sin fragancia, formulado con un pH ácido compatible con la zona íntima externa. Con caléndula, manzanilla y aloe vera para limpiar suavemente mientras cuida la piel delicada. Libre de: Fragancias sintéticas, parabenos y SLS/SLES. No probado en animales. Modo de uso: Aplicar una pequeña cantidad en la zona íntima externa, limpiar suavemente y enjuagar bien. Precauciones: Solo para uso externo. Evitar el contacto con los ojos. Suspender su uso si se presenta irritación",
+      "descriptionEn": "Ingredientes: Aqua, Aloe Barbadensis Extract, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Decyl Glucoside, Glycerin, Calendula Officinalis Extract, Chamomilla Recutita Extract, Caprylyl Glycol, Methylpropanediol, Didecyldimonium Chloride, Polyquaternium-80, Xanthan Gum, Citric Acid. - A gentle, fragrance-free intimate cleanser formulated with an acidic pH compatible with the external intimate area. With calendula, chamomile, and aloe vera to gently cleanse while caring for delicate skin. Free from: Synthetic fragrance, parabens, and SLS/SLES. Cruelty-free. Directions: Apply a small amount to the external intimate area, cleanse gently, and rinse thoroughly. Caution: For external use only. Avoid contact with eyes. Discontinue use if irritation occurs. Ingredients: Aqua, Aloe Barbadensis Extract, Cocamidopropyl Betaine, Sodium Cocoyl Isethionate, Decyl Glucoside, Glycerin, Calendula Officinalis Extract, Chamomilla Recutita Extract, Caprylyl Glycol, Methylpropanediol, Didecyldimonium Chloride, Polyquaternium-80, Xanthan Gum, Citric Acid.",
+      "images": [
+        "https://i.ibb.co/WpY1pHww/limpiador-intimo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775212878,
+      "title": "Jabón líquido antibacterial biodegradable --- Naranja y Vainilla",
+      "titleEn": "(Hand Soap Orange & Vainilla)",
+      "category": "cuidado",
+      "price": 5150,
+      "description": "Ingredientes: Agua (Aqua), lauril sulfato de sodio, cocamida DEA, betaína de cocamidopropilo, glicerina, semilla de toronja (Citrus Grandis), cloruro de sodio, aceite de vainilla (Vanilla Planifolia), aceite esencial orgánico de naranja",
+      "descriptionEn": "(Citrus Aurantium Dulcis). 325ml / 11oz Ingredients: Water (Aqua), Sodium Lauryl Sulfate, Cocamide DEA, Cocamidopropyl Betaine, Glycerin, Grapefruit Seed (Citrus Grandis), Sodium Chloride, Vanilla Oil (Vanilla Planifolia), Organic Orange Essential Oil (Citrus Aurantium Dulcis).",
+      "images": [
+        "https://i.ibb.co/Hp19y8zb/jsbon-liquido.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775260408,
+      "title": "Champú --- Limoncillo, Romero, Árbol de Té, Salvia y Menta 240ml (Shampoo)",
+      "titleEn": "",
+      "category": "cuidado",
+      "price": 7200,
+      "description": "Ingredientes: Agua (Aqua), betaína de cocamidopropilo, glucósido de caprilo, glicerina, aceite de almendras dulces (Prunus Amygdalus Dulcis), goma xantana, aceites esenciales orgánicos de limoncillo (Cymbopogon Citratus), romero (Rosmarinus Officinalis), árbol de té (Melaleuca Alternifolia), salvia esclarea (Salvia Officinalis), menta piperita (Mentha Piperita), ácido sórbico, benzoato de sodio, semilla de toronja (Citrus Grandis). 240ml",
+      "descriptionEn": "7oz Ingredients: Water (Aqua), Cocamidopropyl Betaine, Caprylyl Glucoside, Glycerin, Sweet Almond Oil (Prunus Amygdalus Dulcis), Xanthan Gum, Organic Essential Oils of Lemongrass (Cymbopogon Citratus), Rosemary (Rosmarinus Officinalis), Tea Tree (Melaleuca Alternifolia), Clary Sage (Salvia Officinalis), Peppermint (Mentha Piperita), Sorbic Acid, Sodium Benzoate, Grapefruit Seed (Citrus Grandis).",
+      "images": [
+        "https://i.ibb.co/DPWsWQc0/champu-limoncillo.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775296878,
+      "title": "Jabón en barra - Menta & Lavanda 150g",
+      "titleEn": "(Mint & Lavender Soap)",
+      "category": "cuidado",
+      "price": 5400,
+      "description": "Elaborados artesanalmente en Costa Rica con ingredientes de origen natural. Sin químicos agresivos, sin fragancias sintéticas pesadas y sin detergentes fuertes. Una fórmula suave que respeta la piel y el equilibrio natural del cuerpo.",
+      "descriptionEn": "Handcrafted in Costa Rica with naturally derived ingredients. Free from harsh chemicals, heavy synthetic fragrances, and strong detergents. A gentle formula that respects your skin and its natural balance.",
+      "images": [
+        "https://i.ibb.co/1Jzbpq2w/desodoran-te-natural.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775328062,
+      "title": "Jabón en barra - Toronja & Limón 150g",
+      "titleEn": "(Grapefruit & Lemon Soap)",
+      "category": "cuidado",
+      "price": 5400,
+      "description": "Elaborados artesanalmente en Costa Rica con ingredientes de origen natural. Sin químicos agresivos, sin fragancias sintéticas pesadas y sin detergentes fuertes. Una fórmula suave que respeta la piel y el equilibrio natural del cuerpo.",
+      "descriptionEn": "Handcrafted in Costa Rica with naturally derived ingredients. Free from harsh chemicals, heavy synthetic fragrances, and strong detergents. A gentle formula that respects your skin and its natural balance.",
+      "images": [
+        "https://i.ibb.co/nMg3kntt/jabon-toronja.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775369685,
+      "title": "Jabón en Barra Artesanal 140g MENTA",
+      "titleEn": "(Mint Soap)",
+      "category": "cuidado",
+      "price": 5200,
+      "description": "Ingredientes: Aceite Oliva, Aceite de Coco, Manteca de Karité, Aceite esencial Menta, Polvo de Mica",
+      "descriptionEn": "Ingredients: Olive Oil, Coconut Oil, Shea Butter, Mint Essential Oil, Mica Powder",
+      "images": [
+        "https://i.ibb.co/j9fC8JLg/jabon-artesanal-lavanda.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775404284,
+      "title": "Jabón en Barra Artesanal 140g ROSA",
+      "titleEn": "(Roses Soap)",
+      "category": "cuidado",
+      "price": 5200,
+      "description": "Ingredientes: Aceite Oliva, Aceite de Coco, Manteca de Karité, Aceite esencial de Rosa, Polvo de Mica",
+      "descriptionEn": "Ingredients: Olive Oil, Coconut Oil, Shea Butter, Rose Essential Oil, Mica Powder",
+      "images": [
+        "https://i.ibb.co/4gRSymtV/jabon-artesanal-rosa.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775438126,
+      "title": "Jabón en Barra Artesanal 140g LAVANDA",
+      "titleEn": "(Lavender Soap)",
+      "category": "cuidado",
+      "price": 5200,
+      "description": "Ingredientes: Aceite Oliva, Aceite de Coco, Manteca de Karité, Aceite esencial de Lavanda, Polvo de Mica",
+      "descriptionEn": "Ingredients: Olive Oil, Coconut Oil, Shea Butter, Lavender Essential Oil, Mica Powder",
+      "images": [
+        "https://i.ibb.co/Zs4G7wm/jabon-artesanal-menta.jpg"
+      ],
+      "available": true
+    },
+    {
+      "id": 1792775470490,
+      "title": "Jabón en Barra Artesanal 140g ÁRBOL DE TÉ + CARBÓN ACTIVADO",
+      "titleEn": "(Tea Tree Activated Charcoal Soap)",
+      "category": "cuidado",
+      "price": 5200,
+      "description": "Ingredientes: Aceite Oliva, Aceite de Coco, Manteca de Karité, Aceite esencial de árbol de té, Polvo de Carbón Activado",
+      "descriptionEn": "Ingredients: Olive Oil, Coconut Oil, Shea Butter, Tea Tree Essential Oil, Activated Charcoal Powder",
+      "images": [
+        "https://i.ibb.co/1YRYRpCP/jabon-artesanal-carbon.jpg"
+      ],
+      "available": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "Todos",
+      "nameEn": "All Products"
+    },
+    {
+      "id": "hojas",
+      "name": "Hojas Verdes",
+      "nameEn": "Leafy Greens"
+    },
+    {
+      "id": "vegetales",
+      "name": "Vegetales",
+      "nameEn": "Vegetables"
+    },
+    {
+      "id": "hierbas",
+      "name": "Hierbas y Flores",
+      "nameEn": "Herbs & Flowers"
+    },
+    {
+      "id": "hongos",
+      "name": "Hongos",
+      "nameEn": "Mushrooms"
+    },
+    {
+      "id": "tuberculos",
+      "name": "Tubérculos y Raíces",
+      "nameEn": "Roots & Tubers"
+    },
+    {
+      "id": "frutas",
+      "name": "Frutas",
+      "nameEn": "Fruits"
+    },
+    {
+      "id": "lacteos",
+      "name": "Lácteos y Huevos",
+      "nameEn": "Dairy & Eggs"
+    },
+    {
+      "id": "carnes",
+      "name": "Cortes de Carne",
+      "nameEn": "Meat Cuts"
+    },
+    {
+      "id": "panaderia",
+      "name": "Panadería y Tortillas",
+      "nameEn": "Bakery & Tortillas"
+    },
+    {
+      "id": "asiaticos",
+      "name": "Productos Asiáticos",
+      "nameEn": "Asian Products"
+    },
+    {
+      "id": "fermentados",
+      "name": "Fermentados",
+      "nameEn": "Fermented Foods"
+    },
+    {
+      "id": "bebidas",
+      "name": "Bebidas",
+      "nameEn": "Beverages"
+    },
+    {
+      "id": "endulzantes",
+      "name": "Endulzantes",
+      "nameEn": "Sweeteners"
+    },
+    {
+      "id": "despensa",
+      "name": "Despensa Orgánica",
+      "nameEn": "Organic Pantry"
+    },
+    {
+      "id": "harinas",
+      "name": "Harinas",
+      "nameEn": "Flours"
+    },
+    {
+      "id": "pastas",
+      "name": "Pastas",
+      "nameEn": "Pastas"
+    },
+    {
+      "id": "aceites",
+      "name": "Aceites",
+      "nameEn": "Oils"
+    },
+    {
+      "id": "salsas",
+      "name": "Especias y Salsas",
+      "nameEn": "Spices & Sauces"
+    },
+    {
+      "id": "tes",
+      "name": "Té Artesanal",
+      "nameEn": "Artisanal Tea"
+    },
+    {
+      "id": "nueces",
+      "name": "Nueces y Frutos Secos",
+      "nameEn": "Nuts & Dried Fruits"
+    },
+    {
+      "id": "snacks",
+      "name": "Snacks Saludables",
+      "nameEn": "Healthy Snacks"
+    },
+    {
+      "id": "chocolates",
+      "name": "Chocolate Artesanal",
+      "nameEn": "Artisanal Chocolate"
+    },
+    {
+      "id": "cuidado",
+      "name": "Cuidado Personal",
+      "nameEn": "Personal Care"
+    }
+  ]
+}
